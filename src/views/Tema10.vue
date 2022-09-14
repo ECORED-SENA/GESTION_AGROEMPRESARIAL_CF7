@@ -16,6 +16,7 @@
         img(src='@/assets/curso/tema10/imagen2.jpg')
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
         p Los empleados en el tiempo, buscan su desarrollo laboral y económico, por lo cual las empresas deben establecer políticas como de carrera administrativa, rotación de actividades, fomentar el trabajo en equipo, organización del trabajo, calidad de vida laboral, sistemas de compensación flexible y complementaria, etc.; dirigidas a los trabajadores que son considerados como el recurso más importante de la empresa, fortaleciendo de esta manera el vínculo laboral y contribuyendo en la consecución de los objetivos y expectativas de cada uno, ofreciendo de esta manera salarios justos y motivadores, estabilidad, seguridad social, calidad de vida, satisfacción personal, respeto, mejores oportunidades, capacitación, autonomía y participación, y otros incentivos que no necesariamente son monetarios.
+    p.my-5 En resumen, el bienestar laboral comprende en darle a los empleados beneficios adicionales, aparte de un buen salario, que permitan que trabajen contentos y motivados. Estos beneficios pueden ser monetarios y no monetarios, pero ambos contribuyen a alcanzar una mejor calidad de vida y un excelente ambiente laboral.
     .row.justify-content-center.align-items-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         img(src='@/assets/curso/tema10/figura1.svg')
@@ -25,32 +26,32 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Promover la superación profesional de acuerdo con el puesto.
+            | Beneficios monetarios.
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Influir en el mejoramiento del desempeño.
+            | Programa de reconocimientos.
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | Propiciar la cooperación y lograr excelentes relaciones interpersonales.
+            | Seguros médicos.
           li 
             .lista-ol--cuadro__vineta
               span 4
-            | Control preciso de los costes de mano de obra, lo que permitirá su uso eficiente.
+            | Tiempo de vacaciones y recreación.
 
           li 
             .lista-ol--cuadro__vineta
               span 5
-            | Desarrollar las competencias de cada persona. 
+            | Flexibilidad de horarios. 
           li 
             .lista-ol--cuadro__vineta
               span 6
-            | Promover excelentes condiciones de salud para el personal.
+            | Capacitación y actualización.
           li 
             .lista-ol--cuadro__vineta
               span 7
-            | Evaluar a cada trabajador de acuerdo a su desempeño.
+            | Fondos de pensiones y jubilación.
     p.mb-4 La gestión del talento humano es una de las funciones sustantiva, para la dinámica empresarial, es una función de logística para toda la empresa pues se encarga de suministrar el talento humano para el desarrollo de las actividades de la empresa, lo que exige un ejercicio de planeación de las iniciativas estratégicas que se deriven del diagnóstico empresarial, vela por la organización y estructura empresarial, de tal manera que establece mecanismos para su operación como es la estructuración de los cargos como agrupaciones de actividades similares, generando los manuales pertinentes a los proceso donde participe cada trabajador. La Gestión del talento humano está íntimamente ligada al proceso administrativo, pues a partir de las necesidades sociales de la empresa se dispondrá de recursos, se tendrá que hacer gestiones de dirección bajo el estilo que requiera la empresa: autocrático cuando se requieren decisiones rápidas, liberal, cuando el grado de madurez laboral permite que se delegue, para que la gerencia se concentre en otras actividades de propias de su cargo, o el democrático que basado en el consenso se toman las decisiones.
     .row.justify-content-center.align-items-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")

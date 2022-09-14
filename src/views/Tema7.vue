@@ -36,7 +36,7 @@
           .row.justify-content-center.px-3(titulo="<span style='margin-left: 1em;'>Compensaciones y beneficios</span>")
             .col-lg-8.mb-4.mb-md-0
               p El departamento de recursos humanos será el encargado de realizar la liquidación y compensación efectiva a los trabajadores, por el servicio recibido por la empresa. Este ejercicio hace que se tengan que establecer esquemas de compensación que regularmente son en dinero a lo cual se le denomina salario o sueldo, y complementariamente, se pueden dar otros tipos de beneficio en conformidad lo que la norma laboral permite. 
-              p Ejemplo. a los trabajadores del sector agropecuario, que viven en las fincas, su salario se compensa en parte en efectivo y parte se puede dar en representación a usufructo de la finca, la habitación, los alimentos, etc. Siempre y cuando no supere el 50% del valor de la compensación pactada. 
+              p Ejemplo: a los trabajadores del sector agropecuario, que viven en las fincas, su salario se compensa en parte en efectivo y parte se puede dar en representación a usufructo de la finca, la habitación, los alimentos, etc. Siempre y cuando no supere el 50% del valor de la compensación pactada. 
               p En este ejercicio el departamento de recursos humanos debe analizar la estructura de compensación y evaluar las prácticas de pago del sector o la competencia. Por otro lado, un especialista en beneficios también podría negociar una cobertura de salud para sus empleados o coordinar actividades con presupuesto de la empresa.
           
             .col-lg-4.pe-0.pe-lg-5
@@ -78,7 +78,7 @@
               p.text-bold.mb-1 Ejemplo de Formato de Evaluación de desempeño
               p A continuación, se presenta un modelo de evaluación, donde se evidencian niveles de valoración del desempeño, trabajo y compromisos, conocimiento de la empresa, calidad, planeación y organización del trabajo, etc. Así como exaltaciones de necesidades de capacitación o entrenamiento. 
             .col-sm-auto
-              a.boton.fondo7(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+              a.boton.fondo7(:href="obtenerLink('downloads/EJEMPLO_FORMATO_EVALUACIÓN_DESEMPEÑO.xlsx')" target="_blank")
                 span.text-dark Descargar
                 i.fas.fa-file-download.text-dark
 </template>

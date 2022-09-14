@@ -48,13 +48,13 @@
     p.my-5(data-aos="fade-down-left") En las condiciones actuales de la economía, es fundamental que los productores agropecuarios adquieran un cambio de cultura empresarial y procedan a darle importancia a los procesos administrativos, técnicos, sociales, ambientales y financieros; con los parámetros de manejo y liderazgo empresarial, que faciliten la interacción o comunicaciones entre los trabajadores de la empresa, y que logren las actividades planeadas y los resultados esperados, en ese sentido surge el liderazgo y la dirección en conformidad a la situación de comportamiento de los trabajadores:
     figure(data-aos="fade-down-right")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/LkI7Glzun8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/K-YPgKlK2BA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.my-5(data-aos="fade-down-left") De igual manera y dada las características las empresas del sector agropecuario, se considera conveniente tener como opción de dirección un estilo basado en dos dimensiones, las relaciones interpersonales y el dominio en las tareas, el cual se explica en el siguiente video:
 
     figure(data-aos="fade")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/VmVHOliKCuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/HzqbHWDKtrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 

@@ -9,7 +9,7 @@
     p.mb-5 Vamos a ampliar los conceptos básicos de la administración de las empresas agropecuarias con el siguiente video:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VtQBLQftnrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.my-5 Las actividades del sector agropecuario se dividen en cuatro categorías de actividad específica:
     .titulo-sexto.color-acento-botones.mb-0
       h5 Tabla 1
@@ -58,7 +58,7 @@
           img(src='@/assets/curso/tema1/figura1.svg')
         p.text-small.ms-5 Fuente: Elaboración propia
     separador
-    .titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1  Planeación
     .row
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mt-0.mt-lg-5(data-aos="fade-up-left")
@@ -131,7 +131,7 @@
 
           .row.justify-content-center.align-items-center(titulo="Las políticas y normas")
             .col-md-8.mb-4.mb-md-0.ps-5
-              p.ms-4 Son aquellos productos que tienen un rápido crecimiento, pero aún poca cuota de participación en el mercado, regularmente porque son nuevos. Se recomienda seguir invirtiéndoles porque son semillas que crecerán y se convertirán en productos estrella o vacas lecheras, se tiene que supervisar mucho porque también fácilmente se pueden convertir en productos perros, porque las personas consumen al inicio por exploración, pero si no gustan, no recompran, no crecerán.
+              p.ms-4 Con el conjunto de disposiciones que se deben cumplir para el desarrollo de las actividades empresariales que en el caso de las normas, son disposiciones de carácter obligatorio e impartidas por los entes regulatorios del sector como son el Ministerio de agricultura, el Instituto Colombiano Agropecuario ICA, Secretarías de salud, entre otras, quienes definen los lineamientos generales para tomar el ejercicio de la actividad agropecuaria y fijan guías que orientan la acción y constituyen base para las decisiones en la empresa.
           
             .col-md-4.col-sm-4.col-4
               figure
@@ -143,7 +143,7 @@
         AcordionA.otroacordion1.mb-5(tipo="a" clase-tarjeta="tarjeta fondo2")
           .row.justify-content-center.align-items-center(titulo="Plan de acción")
             .col-md-8.mb-4.mb-md-0.ps-5
-              p.ms-4 es lo que denomina el procedimiento, establece el conjunto de actividades propiamente dichas a realizar dentro de una secuencia para el logro de los objetivos y que obedecen al enfoque estratégico previsto; esto hace que tengan un orden cronológico y la secuencia de actividades que deben seguirse estrictamente durante la realización del plan.
+              p.ms-4 Es lo que denomina el procedimiento, establece el conjunto de actividades propiamente dichas a realizar dentro de una secuencia para el logro de los objetivos y que obedecen al enfoque estratégico previsto; esto hace que tengan un orden cronológico y la secuencia de actividades que deben seguirse estrictamente durante la realización del plan.
           
             .col-md-4.col-sm-4.col-4
               figure
@@ -159,7 +159,7 @@
 
           .row.justify-content-center.align-items-center(titulo="Cronograma")
             .col-md-8.mb-4.mb-md-0.ps-5
-              p.ms-4 es la correlación de las actividades y recursos en función del tiempo, esto es, la programación de cada una de las actividades del plan en un horizonte de tiempo, lo que implica la utilización de los recursos necesarios al momento de su realización, por lo cual estos deben estar disponibles en cantidad y funcionalidad al momento de iniciar las actividades.
+              p.ms-4 Es la correlación de las actividades y recursos en función del tiempo, esto es, la programación de cada una de las actividades del plan en un horizonte de tiempo, lo que implica la utilización de los recursos necesarios al momento de su realización, por lo cual estos deben estar disponibles en cantidad y funcionalidad al momento de iniciar las actividades.
           
             .col-md-4.col-sm-4.col-4
               figure
@@ -200,15 +200,15 @@
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-5(data-aos="fade-up-left")
         LineaTiempoD
-          p(numero="1" titulo="Planes a largo plazo") son aquellos donde se considera como tiempo estimado superior a dos años, el propósito es delimitar las líneas de productos, los niveles de calidad y precio y metas de ventas, participación en nichos o segmentos de mercado que la empresa establezca para sus operaciones. 
+          p(numero="1" titulo="Planes a largo plazo") Son aquellos donde se considera como tiempo estimado superior a dos años, el propósito es delimitar las líneas de productos, los niveles de calidad y precio y metas de ventas, participación en nichos o segmentos de mercado que la empresa establezca para sus operaciones. 
           
-          p(numero="2" titulo="Planes a mediano plazo") son aquellas iniciativas estratégicas con un periodo comprendido entre uno a dos años en promedio, como por ejemplo nuevas plantaciones de algunos frutales, las cuales requieren el desarrollo de las plantas hasta sus primeras producciones.
+          p(numero="2" titulo="Planes a mediano plazo") Son aquellas iniciativas estratégicas con un periodo comprendido entre uno a dos años en promedio, como por ejemplo nuevas plantaciones de algunos frutales, las cuales requieren el desarrollo de las plantas hasta sus primeras producciones.
           
-          p(numero="3" titulo="Planes a corto plazo") son aquellas iniciativas que fijan un horizonte inferior a un año, donde regularmente su desarrollo se mide en semanas, este tipo de planes exige un trabajo muy puntual y disciplinado a desarrollar. 
+          p(numero="3" titulo="Planes a corto plazo") Son aquellas iniciativas que fijan un horizonte inferior a un año, donde regularmente su desarrollo se mide en semanas, este tipo de planes exige un trabajo muy puntual y disciplinado a desarrollar. 
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-up-right")
         img(src='@/assets/curso/tema1/imagen7.jpg')
     separador
-    .titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Organización
     p.mb-5 La organización como función del proceso administrativo busca la adecuación de los recursos empresariales entendida como la agrupación de las actividades y los recursos necesarios por cada área funcional, para llevar a cabo las actividades en cumplimiento de los planes establecidos y mantener las relaciones entre los empleados. Es decir, se trata de establecer desde la estructura empresarial y sus áreas funcionales un agrupamiento por cargos para ejecutar las actividades en lo que se denomina, división del trabajo, asignando para ello los recursos necesarios para su realización
     .titulo-sexto.color-acento-botones.mt-4
@@ -233,7 +233,7 @@
         h4.mb-0.ms-0.margentitulo2 Estructura organizacional
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/a_SqMxP-Cxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
     .row.justify-content-center.my-5
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-up-left")
         p.p-5.fondo4 La estructura organizacional empresarial es un mecanismo de ordenación que define cómo será el ordenamiento de la empresa desde sus actividades, las relaciones entre los trabajadores y demás componentes de la empresa. Sirve para esquematizar gráficamente y adecuar las actividades a desarrollar por parte de la empresa y sus equipos de trabajo, adecuar a las personas necesarias en función de dichas actividades, lo que conlleva una mejor comprensión de la empresa y del quehacer ordinario. Así mismo, sirve para definir el esquema de comunicaciones y de división del trabajo dando como resultado las áreas funcionales de una empresa; esta estructuración deriva en una jerarquización según el nivel de roles de la empresa, es decir quienes toman decisiones, quienes coordinan las operaciones y quienes ejecutan o verifican las acciones propiamente dichas.
@@ -253,7 +253,7 @@
         .row
           .col-xl-7
             h4 Producción
-            p es el conjunto de actividades relacionadas con las actividades principales de la empresa, a lo que se dedica. Si la empresa desarrolla actividad productiva para la obtención de productos agropecuarios su área o departamento de producción será el conjunto de actividades propiamente relacionadas con ese propósito; pero si la empresa desarrolla servicios, como asistencia agrícola, control fitosanitario, etc., que son intangibles como actividad principal, entonces se denomina departamento de servicio en lugar de producción.
+            p Es el conjunto de actividades relacionadas con las actividades principales de la empresa, a lo que se dedica. Si la empresa desarrolla actividad productiva para la obtención de productos agropecuarios su área o departamento de producción será el conjunto de actividades propiamente relacionadas con ese propósito; pero si la empresa desarrolla servicios, como asistencia agrícola, control fitosanitario, etc., que son intangibles como actividad principal, entonces se denomina departamento de servicio en lugar de producción.
           .col-xl-5.mb-4
             figure
               img(src='@/assets/curso/tema1/produccion.jpg')
@@ -266,7 +266,7 @@
         h4 Ventas y Comercialización
         .row
           .col-xl-7
-            p son el conjunto de actividades concernientes a la búsqueda de clientes, el desarrollo de oferta y venta efectiva de productos o los servicios que la empresa presta.
+            p Son el conjunto de actividades concernientes a la búsqueda de clientes, el desarrollo de oferta y venta efectiva de productos o los servicios que la empresa presta.
           .col-xl-5.mb-4
             figure
               img(src='@/assets/curso/tema1/ventas.jpg')
@@ -278,7 +278,7 @@
         h4 Administración
         .row
           .col-xl-7
-            p es el conjunto de actividades complementarias a las técnicas de producción y de comercialización, que permiten el sostenimiento e integración de la empresa, vela por el manejo de los recursos y su disposición, sirve de soporte logístico a las otras dos funciones básicas empresariales.
+            p Es el conjunto de actividades complementarias a las técnicas de producción y de comercialización, que permiten el sostenimiento e integración de la empresa, vela por el manejo de los recursos y su disposición, sirve de soporte logístico a las otras dos funciones básicas empresariales.
           .col-xl-5.mb-4
             figure
               img(src='@/assets/curso/tema1/admon.jpg')
@@ -394,11 +394,11 @@
               p.text-bold.mb-1 Presupuesto de recursos administración por área o proceso
               p En la siguiente tabla se describe la técnica para la asignación y estimación de recursos para el desarrollo de las actividades por cada tipo de agrupación o cargo. Para mayores detalles consulte el anexo: presupuesto de recursos administrativos por área o proceso, donde podrá disponer de dicho instrumento modelo.
             .col-sm-auto
-              a.boton.fondo7(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+              a.boton.fondo7(:href="obtenerLink('downloads/asignación_y_estimación_de_recursos.pdf')" target="_blank")
                 span.text-dark Descargar
                 i.fas.fa-file-download.text-dark
     separador
-    .titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 Dirección
     .row.justify-content-center.align-items-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-right")
@@ -407,9 +407,9 @@
         p La dirección como función del proceso administrativo consiste en dinamizar la empresa y poner en operación y ejecución la planeación, es decir el conjunto de iniciativas estratégicas para lograr los objetivos previstos. Una vez que se completa el proceso de planeación y de organización, hay que cumplir con la disposición de los recursos para el desarrollo de las actividades, esto presupone que hay que contratar talento humano si hace falta, comprar recursos, arrendar o reorganizar tierras lotes, bodegas, como ajustar las asignaciones de actividades de manera formal de darse a lugar. La ejecución requiere de funciones como la comunicación para la coordinación, el liderazgo para hacer que las personas desarrollen sus labores con motivación y diligencia
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/rqsSNc07HBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/eRlbKj0qQV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
     separador
-    .titulo-segundo.color-acento-contenido
+    #t_1_4.titulo-segundo.color-acento-contenido
       h2 1.4 control
     p La función de control del proceso administrativo consiste en establecer resultados esperados en la planeación y compararlos contra los resultados obtenidos al ejecutar; en la medida que existan desviaciones se realizan los ajustes necesarios para el logro de los resultados esperados.
     p.mb-4 Debido a cambios en los costos o en otros factores, los resultados obtenidos después de que el plan se ejecutó pueden desviarse de los resultados esperados; esto se debe a la incertidumbre y el riesgo que existe en la producción agrícola; no obstante, es necesario identificar el tipo y magnitud de las desviaciones tan pronto como sea posible, pues tiene impactos directos contra las utilidades.

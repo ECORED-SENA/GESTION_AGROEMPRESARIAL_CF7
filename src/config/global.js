@@ -36,6 +36,32 @@ export default {
         numero: '1',
         titulo: 'Proceso administrativo',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.1',
+            titulo: 'Planeación',
+            hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Organización',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Dirección',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Control',
+            hash: 't_1_4',
+          },
+        ],
       },
 
       {
@@ -243,11 +269,6 @@ export default {
     },
     {
       referencia:
-        'Jiménez, A. (2017). 10 variables que hacen más fácil crear una empresa. Zaplo.',
-      link: 'https://www.zaplo.es/blog/iniciativa-empresarial/',
-    },
-    {
-      referencia:
         'Ledezma, Y. (2017). Técnicas y herramientas de predicción del talento humano.',
       link:
         'http://yariaudyledezmagth.blogspot.com/2017/11/actividad-12-tecnicas-y-herramientas-de.html',
@@ -390,16 +411,9 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
         nombre: 'Jorge Enrique Haylock Calderín',
@@ -408,7 +422,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

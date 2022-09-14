@@ -17,7 +17,7 @@
         p.my-5 Por lo anterior, se puede decir que las herramientas de análisis empresarial, son todos los métodos que se consideren para hacer más eficaz la administración de una empresa al facilitar la toma de decisiones. Entre las más utilizadas están las siguientes:
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/84fuGpQeYg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .row.justify-content-center.my-4
           .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-right")
             img(src='@/assets/curso/tema4/imagen2.jpg')
@@ -136,6 +136,7 @@
                 li
                   i.fas.fa-angle-right
                   | Etc.
+    p.my-5 A partir de las oportunidades y amenazas, fortalezas y debilidades identificadas, el equipo de recursos humanos y la dirección de la empresa deberán, establecer las iniciativas estratégicas y de plan de acción, relacionando las oportunidades vs fortalezas, las oportunidades vs debilidades, las fortalezas vs amenazas y las fortalezas y las debilidades y amenazas, de tal manera que se conciban las iniciativas de mejora y plan de acción.
     .row.justify-content-center.mb-5
       .col-xxl-8.col-xl-8.col-lg-8.col-md-12(data-aos="fade-down-right")
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
@@ -521,13 +522,13 @@
     .row.justify-content-center.mb-4
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Indicador de horas extra en el período") mide el nivel de trabajo adicional en un periodo con sobrecosto, a la jornada ordinaria.
+          p(numero="1" titulo="Indicador de horas extra en el período") Mide el nivel de trabajo adicional en un periodo con sobrecosto, a la jornada ordinaria.
             img.px-0.px-lg-4.mt-3(src="@/assets/curso/tema4/ecuacion1.svg")
-          p(numero="2" titulo="Nivel de Ausentismo") mide la proporción de horas no laboradas por los trabajadores, independientemente de su causal, refleja la ausencia de los trabajadores en general a la empresa. 
+          p(numero="2" titulo="Nivel de Ausentismo") Mide la proporción de horas no laboradas por los trabajadores, independientemente de su causal, refleja la ausencia de los trabajadores en general a la empresa. 
             img.px-0.px-lg-4.mt-3(src="@/assets/curso/tema4/ecuacion2.svg")
-          p(numero="3" titulo="Nivel de personal") mide la intensidad o proporción de trabajadores por área o departamento frente al total de empleados contratados en la empresa.
+          p(numero="3" titulo="Nivel de personal") Mide la intensidad o proporción de trabajadores por área o departamento frente al total de empleados contratados en la empresa.
             img.mt-3(src="@/assets/curso/tema4/ecuacion3.svg")
-          p(numero="4" titulo="Índice de capacitación") mide la intensidad o proporción de horas de capacitación, por las horas contratadas.
+          p(numero="4" titulo="Índice de capacitación") Mide la intensidad o proporción de horas de capacitación, por las horas contratadas.
             img.mt-3(src="@/assets/curso/tema4/ecuacion4.svg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
         img(src="@/assets/curso/tema4/imagen13.jpg")
@@ -541,13 +542,13 @@
     .row.justify-content-center.mb-5
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Razón Corriente") mide la capacidad de liquidez que tiene la empresa para pagar las obligaciones financieras o pasivos de corto plazo con recursos de activos corrientes o de corto plazo.
+          p(numero="1" titulo="Razón Corriente") Mide la capacidad de liquidez que tiene la empresa para pagar las obligaciones financieras o pasivos de corto plazo con recursos de activos corrientes o de corto plazo.
             img.px-0.px-lg-5.mt-3.sizeimg(src="@/assets/curso/tema4/ecuacion5.svg")
-          p(numero="2" titulo="Razón de endeudamiento") mide el nivel de endeudamiento que tiene la empresa, es decir la cantidad de recursos de la empresa que ha financiado con recursos monetarios ajenos.
+          p(numero="2" titulo="Razón de endeudamiento") Mide el nivel de endeudamiento que tiene la empresa, es decir la cantidad de recursos de la empresa que ha financiado con recursos monetarios ajenos.
             img.mt-3(src="@/assets/curso/tema4/ecuacion6.svg")
-          p(numero="3" titulo="Nivel de cobertura de intereses") mide en qué porcentaje la empresa genera utilidades operativas superiores para poder pagar los intereses de sus obligaciones
+          p(numero="3" titulo="Nivel de cobertura de intereses") Mide en qué porcentaje la empresa genera utilidades operativas superiores para poder pagar los intereses de sus obligaciones
             img.mt-3(src="@/assets/curso/tema4/ecuacion7.svg")
-          p(numero="4" titulo="Nivel de Rentabilidad Neta") mide la proporción de la utilidad respecto de las ventas netas de la empresa en un periodo
+          p(numero="4" titulo="Nivel de Rentabilidad Neta") Mide la proporción de la utilidad respecto de las ventas netas de la empresa en un periodo
             img.mt-3(src="@/assets/curso/tema4/ecuacion8.svg")        
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right") 
         img(src="@/assets/curso/tema4/imagen14.jpg")
@@ -561,16 +562,16 @@
     TabsA.color-acento-botones.mb-5
       .tarjeta.fondo5.p-4(titulo="Calidad del producto")
         h4 Calidad del producto
-        p indica la proporción de productos defectuosos sobre el total de producto obtenido medido en unidades, en peso, o como se dé la producción, pero se expresa en porcentaje, a menor valor mayor calidad del producto
+        p Indica la proporción de productos defectuosos sobre el total de producto obtenido medido en unidades, en peso, o como se dé la producción, pero se expresa en porcentaje, a menor valor mayor calidad del producto
         img.px-0.px-lg-5.mt-3.sizeimg(src="@/assets/curso/tema4/ecuacion9.svg")    
       
       .tarjeta.fondo5.p-4(titulo="Utilización de la capacidad instalada")
         h4 Utilización de la capacidad instalada
-        p mide el nivel de recursos utilizados para la producción
+        p Mide el nivel de recursos utilizados para la producción
         img.px-0.px-lg-5.mt-3.sizeimg(src="@/assets/curso/tema4/ecuacion10.png") 
       .tarjeta.fondo5.p-4(titulo="Nivel de desperdicio")
         h4 Nivel de desperdicio
-        p permite medir el nivel de eficiencia en el uso de los recursos
+        p Permite medir el nivel de eficiencia en el uso de los recursos
         img.px-0.px-lg-5.mt-3.sizeimg(src="@/assets/curso/tema4/ecuacion11.png")
     .row.my-4.align-items-center(data-aos="fade-down-right")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
@@ -582,9 +583,9 @@
     .row.justify-content-center.mb-5
       .col-xxl-7.col-xl-7.col-lg-7.col-md-12.mb-4(data-aos="fade-down-left")
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Clientes nuevos") mide el desempeño de cada vendedor o del grupo de vendedores, en la consecución de clientes nuevos que compren efectivamente.
+          p(numero="1" titulo="Clientes nuevos") Mide el desempeño de cada vendedor o del grupo de vendedores, en la consecución de clientes nuevos que compren efectivamente.
             img.mt-3.sizeimg.px-0.px-lg-4(src="@/assets/curso/tema4/ecuacion12.svg")
-          p(numero="2" titulo="Participación en el mercado") mide qué tanto de las ventas de la industria o sector donde opera la empresa, la empresa contribuye.
+          p(numero="2" titulo="Participación en el mercado") Mide qué tanto de las ventas de la industria o sector donde opera la empresa, la empresa contribuye.
             img.mt-3(src="@/assets/curso/tema4/ecuacion13.svg")
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12.mb-4(data-aos="fade-down-left")
         img(src="@/assets/curso/tema4/imagen15.jpg")
@@ -606,7 +607,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-bold.mb-1 Financieros:
-                  p esta perspectiva de la empresa busca evidenciar el nivel de respuesta a las expectativas de los inversionistas o socios de la empresa, Busca verificar y hacer seguimiento al  valor para ellos mediante indicadores beneficio o utilidad, crecimiento de ingresos por ventas, crecimiento que reflejan el comportamiento operativo.
+                  p Esta perspectiva de la empresa busca evidenciar el nivel de respuesta a las expectativas de los inversionistas o socios de la empresa, busca verificar y hacer seguimiento al  valor para ellos mediante indicadores beneficio o utilidad, crecimiento de ingresos por ventas, crecimiento que reflejan el comportamiento operativo.
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-1(data-aos="fade-down-left")
         .tarjeta.fondo13.p-3.mb-5
@@ -628,7 +629,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-bold.mb-1 Procesos internos:
-                  p Mide la calidad del producto o servicio final. Dimensiona el tiempo de respuesta del equipo operacional frente a las problemáticas y nuevos desafíos impuestos. Verifica el coste de los procesos de producción y operacionales. Analiza la capacidad de introducir los productos y servicios en el mercado.
+                  p Mide la calidad del producto o servicio final; dimensiona el tiempo de respuesta del equipo operacional frente a las problemáticas y nuevos desafíos impuestos; verifica el coste de los procesos de producción y operacionales; analiza la capacidad de introducir los productos y servicios en el mercado.
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-1(data-aos="fade-down-left")
         .tarjeta.fondo13.p-3.mb-5
