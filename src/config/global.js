@@ -383,7 +383,7 @@ export default {
       },
       {
         nombre: 'Carlos Fernando Riaño',
-        cargo: '',
+        cargo: 'Experto temático',
         centro: 'Regional Bogotá - Centro de Diseño y Metrología',
       },
       {
