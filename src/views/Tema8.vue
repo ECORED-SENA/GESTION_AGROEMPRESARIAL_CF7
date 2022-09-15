@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-down-right")
       .titulo-principal__numero
         span 8
       h1 Reclutamiento del personal
@@ -11,7 +11,7 @@
         img(src='@/assets/curso/tema8/figura1.svg')
       .col-xxl-8.col-xl-8.col-lg-8.col-md-12(data-aos="fade-down-right")
         p Es la función de procesos de gestión de recursos humanos que tiene por finalidad localizar y convocar el personal más calificado para el desarrollo de las actividades de los cargos a suplir y de las vacantes disponibles por cargo. Antes de proceder a esa búsqueda, se debe tener una idea clara de las actividades a desarrollar en el cargo; para ello, la persona encargada en el departamento de recursos humanos tendrá la tarea de realizar un análisis de puesto. Este es un proceso que determina las tareas, destrezas, habilidades y responsabilidades que se requieren para cumplir exitosamente con un cargo, que es un conjunto de actividades relacionadas funcionalmente.
-    h3.mb-5 La información para este análisis surge de:
+    h3.mb-5(data-aos="fade-down-right") La información para este análisis surge de:
     .row.justify-content-between
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         ol.lista-ol--cuadro.lista-ol--separador
@@ -48,11 +48,12 @@
           h5 Figura 15
         span.ms-4 Procesos de reclutamiento de personal
         img.mt-4(src='@/assets/curso/tema8/figura2.svg')
-    figure.my-5
+    figure.my-5(data-aos="fade-down-right")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/e_ah_grWSzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.justify-content-center
-      .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
+    .row.justify-content-center.align-items-center
+      .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4.mb-lg-0(data-aos="fade-down-left")
+        p Para la convocatoria y el reclutamiento de hojas de vida, se puede optar por diversos medios: 
         ol.lista-ol--cuadro.lista-ol--separador
           li 
             .lista-ol--cuadro__vineta
@@ -84,7 +85,7 @@
         p.fondo15.text-bold b. Reclutamiento externo. 
         p.fondo11.text-bold c. Reclutamiento mixto. 
         p.fondo15.text-bold d. Reclutamiento 2.0 o reclutamiento social.
-    p Esta actividad, para efectos de optimización se puede subcontratar, es decir la empresa y su administrador, por no ser su especialidad, pueden contratar los servicios de otras empresas caza talentos, donde las necesidades y requerimiento son transmitidas y esta empresa procederá a ubicar convocar el personal que la empresa demanda. El reclutamiento de personal en las empresas agropecuarias representa un gran vacío, en cuanto al cumplimiento de la localización, la idoneidad y cantidad de mano de obra a suplir, convirtiéndose en un cuello de botella para los resultados de las diferentes actividades, por lo cual las empresas recurren a la capacitación y entrenamiento del personal.
+    p(data-aos="fade") Esta actividad, para efectos de optimización se puede subcontratar, es decir la empresa y su administrador, por no ser su especialidad, pueden contratar los servicios de otras empresas caza talentos, donde las necesidades y requerimiento son transmitidas y esta empresa procederá a ubicar convocar el personal que la empresa demanda. El reclutamiento de personal en las empresas agropecuarias representa un gran vacío, en cuanto al cumplimiento de la localización, la idoneidad y cantidad de mano de obra a suplir, convirtiéndose en un cuello de botella para los resultados de las diferentes actividades, por lo cual las empresas recurren a la capacitación y entrenamiento del personal.
 </template>
 
 <script>

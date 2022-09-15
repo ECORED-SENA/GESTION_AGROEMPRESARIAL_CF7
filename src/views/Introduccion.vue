@@ -7,8 +7,8 @@
       .titulo-principal__numero
         span.text-white i
       h1 Introducción
-    p.mb-5 En este componente formativo se tratan los temas relacionados respecto a la importancia del Recurso de Talento Humano dentro de las empresas, empecemos con un contexto general a continuación:
-    figure
+    p.mb-5(data-aos="fade-down-right") En este componente formativo se tratan los temas relacionados respecto a la importancia del Recurso de Talento Humano dentro de las empresas, empecemos con un contexto general a continuación:
+    figure(data-aos="fade")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/KdBpeKjDums" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>

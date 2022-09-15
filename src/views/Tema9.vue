@@ -2,11 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-down-right")
       .titulo-principal__numero
         span 9
       h1 Selección del personal
-    p.mb-5 La selección de personal es el proceso que sigue ante el proceso de reclutamiento de candidatos a un cargo, del cual se espera suplir la necesidad de la(s) vacantes, y poder adelantar la contratación de un empleado en la empresa. La finalidad de este proceso es elegir al candidato más adecuado para la empresa en pro del desarrollo de las actividades del puesto de trabajo, a continuación, se relacionan los pasos de la selección de personal:
+    p.mb-5(data-aos="fade-down-left") La selección de personal es el proceso que sigue ante el proceso de reclutamiento de candidatos a un cargo, del cual se espera suplir la necesidad de la(s) vacantes, y poder adelantar la contratación de un empleado en la empresa. La finalidad de este proceso es elegir al candidato más adecuado para la empresa en pro del desarrollo de las actividades del puesto de trabajo, a continuación, se relacionan los pasos de la selección de personal:
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         ImagenInfografica.color-secundario.mb-5
@@ -24,13 +24,13 @@
 
             ul.lista-ul
               li.mb-0 
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Test psicotécnicos, 
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Pruebas profesionales 
               li.mb-0 
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Pruebas físicas y de demostración de dominio de labor. 
 
             p La elección del tipo de prueba depende del cargo y puesto.
@@ -60,7 +60,7 @@
       h5 Tabla 10
       br
       span Diferencias entre Reclutamiento y selección de personal
-    .tabla-a.color-acento-botones.my-4 
+    .tabla-a.color-acento-botones.my-4(data-aos="fade-down-right")
       table.bordestabla
         thead.text-center
           tr

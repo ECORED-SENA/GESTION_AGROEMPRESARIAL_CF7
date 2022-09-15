@@ -2,13 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-down-right")
       .titulo-principal__numero
         span 7
       h1 Funciones sustantivas de la gestión de talento humano
-    .row.ampliar.fondo14
-      .col-12.px-5
-        AcordionA.otroacordion.px-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+    .row.ampliar.fondo14.px-5
+      .col-12(data-aos="fade-down-left")
+        AcordionA.otroacordion(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row.justify-content-center.px-3(titulo="<span style='margin-left: 1em;'>Reclutamiento y selección</span>")
             .col-lg-8.mb-4.mb-md-0
               p Es la función que se encarga de difundir las necesidades de cargos a cubrir o vacantes, elegir a los candidatos, realizar las entrevistas preliminares y coordinar los esfuerzos con los responsables de la selección final.
@@ -68,10 +68,10 @@
               figure
                 img(src='@/assets/curso/tema7/imagen7.jpg')
     
-    .tarjeta.color-acento-contenido.p-3.mt-5
+    .tarjeta.color-acento-contenido.p-3.mt-5.sombra(data-aos="fade")
       .row.justify-content-around.align-items-center
         .col-4.col-sm-4.col-md-3.col-lg-1.ms-3
-          img(src="@/assets/curso/tema7/figura1.svg")
+          img.mb-4.mb-lg-0(src="@/assets/curso/tema7/figura1.svg")
         .col-xxl-10.col-xl-10.col-lg-10.col-md-11.col-sm-12
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.text-white

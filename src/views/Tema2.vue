@@ -2,16 +2,16 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-down-right")
       .titulo-principal__numero
         span 2
       h1 Diagnóstico y necesidades de talento humano
-    figure
+    figure(data-aos="fade-down-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/LHTYPCvgPE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.my-5 Para poder establecer las necesidades de la intensidad de recursos humanos o talento humano requerido en una empresa agropecuaria en Colombia, primero se debe identificar los tipos de actividad y como es el sistema de explotación con que se opera. Este análisis se realiza teniendo en cuenta su desarrollo técnico tecnológico y la cantidad de producción o tamaño del terreno de la producción, de lo cual se establecen los siguientes sistemas productivos:
-    h4.text-center Sistemas productivos
-    SlyderB.mb-5.fondo8.px-5.pt-0.otrocolorangleright(:datos="datosSlyder")
+    p.my-5(data-aos="fade-down-right") Para poder establecer las necesidades de la intensidad de recursos humanos o talento humano requerido en una empresa agropecuaria en Colombia, primero se debe identificar los tipos de actividad y como es el sistema de explotación con que se opera. Este análisis se realiza teniendo en cuenta su desarrollo técnico tecnológico y la cantidad de producción o tamaño del terreno de la producción, de lo cual se establecen los siguientes sistemas productivos:
+    h4.text-center(data-aos="fade-down-left") Sistemas productivos
+    SlyderB.mb-5.fondo8.px-5.pt-0(data-aos="fade-down-right").otrocolorangleright(:datos="datosSlyder")
     .row.my-4.align-items-center(data-aos="fade-down-right")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
@@ -19,8 +19,8 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 Necesidades del talento humano
-    p Algo importante que destacar en este proceso, es que actualmente las empresas de iniciativa formal y sistema de explotación intensivo, ya se cuenta con departamento de recursos humanos, ya que es pieza clave para el lograr los objetivos trazados. 
-    p.mb-5 El propósito de esta dependencia es mantener a todos sus trabajadores comprometidos y motivados con las políticas y los objetivos de la empresa para la consecución del éxito. El ambiente diario de trabajo influye en las personas e interfiere en la parte física, emocional y mental de los trabajadores. Algo fundamental en el sector agropecuario para mejorar su rentabilidad, es implementar protocolos de funciones y responsabilidades, aplicar políticas de buen trato y de seguridad a los empleados o trabajadores.
+    p(data-aos="fade-down-right") Algo importante que destacar en este proceso, es que actualmente las empresas de iniciativa formal y sistema de explotación intensivo, ya se cuenta con departamento de recursos humanos, ya que es pieza clave para el lograr los objetivos trazados. 
+    p.mb-5(data-aos="fade-down-right") El propósito de esta dependencia es mantener a todos sus trabajadores comprometidos y motivados con las políticas y los objetivos de la empresa para la consecución del éxito. El ambiente diario de trabajo influye en las personas e interfiere en la parte física, emocional y mental de los trabajadores. Algo fundamental en el sector agropecuario para mejorar su rentabilidad, es implementar protocolos de funciones y responsabilidades, aplicar políticas de buen trato y de seguridad a los empleados o trabajadores.
     .row.justify-content-center.align-items-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-right")
         img(src="@/assets/curso/tema2/imagen5.jpg")
@@ -28,7 +28,7 @@
         p Las necesidades de talento humano se fijan a partir de la definición de actividades a realizar en la empresa, tal cual como se mencionó en el literal de organización, donde el número de trabajadores depende de los cálculos de desempeño promedio que tenga la empresa, el tipo de recurso, así como, el tipo de aplicación. La mayor intensidad de trabajadores estará en los procesos productivos, y será allí, donde la empresa debe establecer el número adecuado, según el tipo de producto y su estacionalidad, ya que, por la naturaleza de los productos, debe ser suficiente, pues las producciones no marcadamente relacionadas al tiempo, y no pueden esperar en muchos casos, a que se ejecuten actividades. Los empresarios a partir de experiencias previas, por área de trabajo, o por referencias de otros productores, puede establecer los niveles de requerimiento de trabajadores por tipo de actividad, estableciendo el sistema de pagos más apropiado.
     .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
       h5 Tabla 2
-    span.ms-4 Ejemplo de establecimiento de Niveles de necesidad del número de empleados en una empresa
+    p(data-aos="fade-down-right").ms-4 Ejemplo de establecimiento de Niveles de necesidad del número de empleados en una empresa
     img.mt-5(data-aos="fade")(src="@/assets/curso/tema2/tabla1.svg")
 </template>
 

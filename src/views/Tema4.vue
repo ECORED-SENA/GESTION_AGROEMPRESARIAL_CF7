@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-down-right")
       .titulo-principal__numero
         span 4
       h1 Herramientas gerenciales
@@ -14,8 +14,8 @@
             p.p-4.fondo1.correrder Las herramientas de gestión facilitan el análisis de la organización y aumentan el control, ampliando el conocimiento de los procesos y actividades que se desarrollan, que en un ejercicio compartido con los diferentes actores de áreas funcionales alinean la organización en la resolución de problemas y la definición de soluciones, fijación de objetivos, entre otros. En estas herramientas se puede hacer revisiones de variables cualitativas o cuantitativas para toma de decisiones frente a alternativas empresariales.
           .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-up-right")
             img(src='@/assets/curso/tema4/imagen1.jpg')
-        p.my-5 Por lo anterior, se puede decir que las herramientas de análisis empresarial, son todos los métodos que se consideren para hacer más eficaz la administración de una empresa al facilitar la toma de decisiones. Entre las más utilizadas están las siguientes:
-        figure
+        p.my-5(data-aos="fade-down-right") Por lo anterior, se puede decir que las herramientas de análisis empresarial, son todos los métodos que se consideren para hacer más eficaz la administración de una empresa al facilitar la toma de decisiones. Entre las más utilizadas están las siguientes:
+        figure(data-aos="fade-down-left")
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/84fuGpQeYg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .row.justify-content-center.my-4
@@ -32,8 +32,8 @@
         img(src='@/assets/curso/tema4/imagen3.jpg')
     .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
       h5 Tabla 4
-    span.ms-4 Ejemplo de preguntas para adelantar una matriz DOFA
-    .tabla-a.color-acento-botones.my-5 
+    p.ms-4(data-aos="fade-down-right") Ejemplo de preguntas para adelantar una matriz DOFA
+    .tabla-a.color-acento-botones.my-5(data-aos="fade-down-left")
       table.bordestabla
         thead.text-center
           tr
@@ -48,51 +48,51 @@
             td.bordestabla 
               ul.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Cuáles son los objetivos prioritarios que atiende, por los cuales se distingue el departamento como eficiente?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Cuáles son las ventajas de la administración de recursos humanos? 
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Qué hacemos bien?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Contamos con software para liquidación de nómina?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Cumplimiento en pagos
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Etc.
             td.bordestabla 
               ul.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Qué se está haciendo mal, De que se quejan los funcionarios de la empresa?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Qué podría ser evitado?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Qué podría ser mejorado?  
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Por qué hay tanto ausentismo?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | No hay reclutamiento y selección de personal.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Falta de evaluación y desarrollo del personal.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Poca claridad en las funciones de los empleados.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Desconocimiento de las leyes laborales.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Reclutamiento y selección de personal deficiente.
           tr.fondo11
             <td colspan="2">
@@ -105,47 +105,47 @@
             td.bordestabla 
               ul.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Cuáles son las tendencias interesantes en manejo de recursos humanos?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Se están dando las buenas oportunidades para la contratación? 
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Hay oportunidades de capacitación al sector agro, para mitigar riesgos en el sector? 
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Cambios en políticas locales, nacionales y regionales relacionadas con mi sector.
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Etc.
             td.bordestabla
               ul.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿A qué obstáculos se enfrenta la empresa si  no controla? 
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿El cambio normativo afecta los costos de la empresa?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Qué está haciendo mi competencia que los clientes y empleados están buscándola?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | ¿Las especificaciones sobre el trabajo a realizar y los productos y servicios a conseguir cambian continuamente?
                 li
-                  i.fas.fa-angle-right
+                  i.fas.fa-check
                   | Etc.
-    p.my-5 A partir de las oportunidades y amenazas, fortalezas y debilidades identificadas, el equipo de recursos humanos y la dirección de la empresa deberán, establecer las iniciativas estratégicas y de plan de acción, relacionando las oportunidades vs fortalezas, las oportunidades vs debilidades, las fortalezas vs amenazas y las fortalezas y las debilidades y amenazas, de tal manera que se conciban las iniciativas de mejora y plan de acción.
+    p.my-5(data-aos="fade-down-right") A partir de las oportunidades y amenazas, fortalezas y debilidades identificadas, el equipo de recursos humanos y la dirección de la empresa deberán, establecer las iniciativas estratégicas y de plan de acción, relacionando las oportunidades vs fortalezas, las oportunidades vs debilidades, las fortalezas vs amenazas y las fortalezas y las debilidades y amenazas, de tal manera que se conciban las iniciativas de mejora y plan de acción.
     .row.justify-content-center.mb-5
       .col-xxl-8.col-xl-8.col-lg-8.col-md-12(data-aos="fade-down-right")
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
           h5 Tabla 5
         span.ms-4 Estructura de la Matriz DOFA para formulación de iniciativas estratégicas y de plan de acción
         img.mt-4(src='@/assets/curso/tema4/tabla1.svg')
-    p Entre las principales iniciativas estratégicas y de mejora que se deben implementar por parte del departamento de recursos humanos esta:
-    p.text-bold.text-center Iniciativas estratégicas y de mejora del departamento de recursos humanos
-    .tarjeta.tarjeta--gris.p-4.mb-5.fondo12
+    p(data-aos="fade-down-right") Entre las principales iniciativas estratégicas y de mejora que se deben implementar por parte del departamento de recursos humanos esta:
+    p.text-bold.text-center(data-aos="fade-down-left") Iniciativas estratégicas y de mejora del departamento de recursos humanos
+    .tarjeta.tarjeta--gris.p-4.mb-5.fondo12(data-aos="fade-down-right")
       //- LineaTiempoC debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- text-small se usa para que los títulos sean mas pequeños
@@ -156,16 +156,16 @@
             p.mb-3 Consiste en lograr establecer un adecuado ambiente para el desempeño y armonía que nace desde el área de Recursos Humanos y se propaga por toda la empresa, para ello deberá adelantar tácticas como:
             ul.lista-ul
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Escuchar las inquietudes de los trabajadores, sobre aspectos de cómo se llevan los procesos, la conciliación de las soluciones a los conflictos que se le puede dar etc.
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Fomentar el respeto entre los colaboradores, 
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Promover la importancia del trabajo en equipo.
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Mejorar las relaciones interpersonales mediante un proceso de capacitación y talleres de reflexión con el personal del Área.        
           .col-md-4
             figure
@@ -178,19 +178,19 @@
             span busca generar satisfacción en el área de trabajo con tácticas como:
             ul.lista-ul.mt-3
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Premiación de los logros en el trabajo.
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Charlas motivacionales, donde los trabajadores se sientan importantes y despierten sentido de pertenencia con la empresa.
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Cursos de cualificación y complemento a la formación para todos los colaboradores (cursos de sistemas, inglés, cursos técnicos con base a sus funciones del cargo.
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Aumentos de salario a trabajadores destacados permanentemente en sus labores.
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Estructurar un sistema de Promoción de cargos y nuevas funciones que representen ascensos.
 
           .col-md-4
@@ -202,16 +202,16 @@
             p.text-bold.mb-3 Mejorar el Flujo de Trabajo:
             ul.lista-ul
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Mejorar la asignación de las actividades de acuerdo al puesto de trabajo
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Mejorar los esquemas de Supervisión constante del trabajo de los colaboradores
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Respeto de los tiempos establecidos para cada actividad.
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Respeto de los horarios de descanso.
         
           .col-md-4
@@ -223,10 +223,10 @@
             p.text-bold.mb-3 Estabilidad laboral
             ul.lista-ul
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Busca evitar salida de trabajadores de la empresa hacia las empresas competidoras
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Disminución de la rotación.
         
           .col-md-4
@@ -238,19 +238,19 @@
             p.text-bold.mb-3 Comunicación
             ul.lista-ul
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Mejorar la comunicación entre colaboradores
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Desarrollo de charlas para el mejoramiento de la interacción de los trabajadores
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Mejorar el ejercicio  de escuchar las inquietudes y sugerencias de los colaboradores.
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Implementar charlas para el mejoramiento de comunicación
               li.mb-0
-                i.fas.fa-angle-right
+                i.fas.fa-check
                 | Programación del cronograma de tareas para la fluida comunicación entre las áreas y evitar la saturación de trabajo.
         
           .col-md-4
@@ -263,12 +263,12 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 Diagrama de Causa - Efecto
-    p.my-5 Es una herramienta para identificar de manera estructurada las causas de un problema o efecto evidenciado a partir de un esquema gráfico que se asemeja a una espina de pescado que es como también se denomina a esta herramienta.
+    p.my-5(data-aos="fade-down-right") Es una herramienta para identificar de manera estructurada las causas de un problema o efecto evidenciado a partir de un esquema gráfico que se asemeja a una espina de pescado que es como también se denomina a esta herramienta.
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         p La técnica de utilización refiere a identificar las causas principales de un problema o efecto negativo en la empresa, posteriormente identificar las subcausas o variables de causas relacionadas con las principales que estén contribuyendo con el problema, y que son de carácter secundario e inclusive pueden ser de carácter terciario como en el caso de proveedores, que infieren en la disponibilidad de materiales de materias primas, insumos o suministros, y dentro de este problema, que estos proveedores están concentrados, o que los materiales de los proveedores solo se consiguen en ciertas cantidades no disponibles para la empresa. Es muy versátil para analizar y resolver problemas complicados, pues permite un análisis desde los factores operativos más relevantes de la empresa.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
-        img(src="@/assets/curso/tema1/imagen10.jpg")
+        img(src="@/assets/curso/tema4/imagen10.jpg")
     .row.justify-content-center.mt-4
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-4(data-aos="fade-down-left")
         .titulo-sexto.color-acento-botones.mb-0
@@ -286,13 +286,13 @@
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         p Esta herramienta es una forma particular de un diagrama de barras verticales utilizado para identificar los pocos vitales y los muchos triviales que puede tener una empresa, donde los primeros son en gran medida los responsables de la mayor parte de los efectos negativos de los problemas en la empresa, donde caso siempre se asocian a una relación 70-30 o 80-20, esto es, que del total de los múltiples problemas que puede tener una empresa entre el 70% al 80% se concentran en pocas causas, y el resto de problemas que son múltiples representan entre el 20% al 30% de los casos, por lo cual la empresa debe concentrar su atención en resolver esos pocos problemas que son vitales para el negocio pues tienen mucho efecto, y que solucionando estos probablemente se resuelven muchos de los aspectos menores .
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
-        img(src="@/assets/curso/tema1/imagen11.jpg")
+        img(src="@/assets/curso/tema4/imagen11.jpg")
     .row.justify-content-center.my-5
       .col-xxl-8.col-xl-8.col-lg-8.col-md-12(data-aos="fade-down-right")
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
           h5 Tabla 6
         p.ms-4 Ejemplo de las quejas y reclamos de clientes por artículos recibidos en un mes
-        .tabla-a.color-acento-botones.my-4 
+        .tabla-a.color-acento-botones.my-4(data-aos="fade-down-right")
           table.bordestabla
             thead.text-center
               tr
@@ -341,12 +341,12 @@
                 td.bordestabla.text-center 156
                 td.bordestabla.text-center 100,00 %
                 td.bordestabla.text-center 
-        .titulo-sexto.color-acento-botones.mb-0
+        .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-right")
           h5 Figura 9
-        p.ms-4 Ejemplo de Diagrama de Pareto para análisis del comportamiento de las  y reclamos en una empresa
-        img.my-4(src="@/assets/curso/tema4/figura2.svg")
-    p En este ejemplo anterior, se puede observar que del total de los 156 casos de quejas y reclamos, el 74,4% de los casos corresponden a tres causas, mientras que las otras cuatro causas de quejas solo contemplan el restante 25,6%; por lo cual la empresa debe tomar decisiones relacionadas con estas causas que concentran la mayoría de las quejas de los clientes por los productos adquiridos, siendo que en la búsqueda de solucionar estos inconvenientes, y conscientes de la importancia para la empresa, los demás aspectos seguramente también se corregirán.
-    p.mb-5 Esta herramienta tiene muchas aplicabilidades, para el análisis en la empresa, y por ende facilitar la toma de decisiones, es un ejercicio de aplicabilidad de la administración promoverla al interior de sus diferentes áreas funcionales.
+        p.ms-4(data-aos="fade-down-right") Ejemplo de Diagrama de Pareto para análisis del comportamiento de las  y reclamos en una empresa
+        img(data-aos="fade-down-left").my-4(src="@/assets/curso/tema4/figura2.svg")
+    p(data-aos="fade-down-right") En este ejemplo anterior, se puede observar que del total de los 156 casos de quejas y reclamos, el 74,4% de los casos corresponden a tres causas, mientras que las otras cuatro causas de quejas solo contemplan el restante 25,6%; por lo cual la empresa debe tomar decisiones relacionadas con estas causas que concentran la mayoría de las quejas de los clientes por los productos adquiridos, siendo que en la búsqueda de solucionar estos inconvenientes, y conscientes de la importancia para la empresa, los demás aspectos seguramente también se corregirán.
+    p.mb-5(data-aos="fade-down-left") Esta herramienta tiene muchas aplicabilidades, para el análisis en la empresa, y por ende facilitar la toma de decisiones, es un ejercicio de aplicabilidad de la administración promoverla al interior de sus diferentes áreas funcionales.
     .row.my-4.align-items-center(data-aos="fade-down-right")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
@@ -354,13 +354,13 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 Diagrama de frecuencias o estratificación
-    p Es una técnica de distribución de las frecuencias de una variable, que busca estratificar el comportamiento de la misma, no denota un sentido de orden específico. En el siguiente ejemplo se puede observar su enfoque de uso.
-    p.mb-5 Ejemplo: En una empresa agrícola el gerente desea saber cómo es el consumo y venta de verduras, para ello recurre al análisis estadístico del promedio de ventas de estos recursos, lo que le servirá como parámetro para tomar decisiones.
+    p(data-aos="fade-down-right") Es una técnica de distribución de las frecuencias de una variable, que busca estratificar el comportamiento de la misma, no denota un sentido de orden específico. En el siguiente ejemplo se puede observar su enfoque de uso.
+    p.mb-5(data-aos="fade-down-left") Ejemplo: En una empresa agrícola el gerente desea saber cómo es el consumo y venta de verduras, para ello recurre al análisis estadístico del promedio de ventas de estos recursos, lo que le servirá como parámetro para tomar decisiones.
     .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
       h5 Tabla 7
       br
-      span Ejemplo de concentración del estado de cartera por ventas (millones)
-    table.text-center.my-5
+      p(data-aos="fade-down-right") Ejemplo de concentración del estado de cartera por ventas (millones)
+    table.text-center.my-5(data-aos="fade-down-left")
       tr
         th.bordestabla 
         th.fondo11.bordestabla Corriente
@@ -382,7 +382,7 @@
         td.bordestabla 13,4 %
         td.bordestabla 10,7 %
         td.bordestabla 100,0 %
-    p.my-5 A partir de esta información suministrada por el gerente de las centrales de mercado, y quien resumió los promedios del número de Toneladas por producto que se venden diariamente en el en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos.
+    p.my-5(data-aos="fade-down-right") A partir de esta información suministrada por el gerente de las centrales de mercado, y quien resumió los promedios del número de Toneladas por producto que se venden diariamente en el en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos.
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-4(data-aos="fade-down-left")
         .titulo-sexto.color-acento-botones.mb-0
@@ -390,7 +390,7 @@
         p.ms-4 Diagrama de estratificación del estado de cartera por ventas a clientes
         p.text-bold.text-center Concentración del estado de cartera por ventas en millones de pesos
         img(src="@/assets/curso/tema4/figura3.svg") 
-    p.text-bold.text-center Tipo de Cartera
+    p.text-bold.text-center(data-aos="fade-down-right") Tipo de Cartera
     .row.my-4.align-items-center(data-aos="fade-down-right")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
@@ -398,13 +398,13 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 Histograma
-    p Es la distribución del comportamiento de una variable continua que denota la distribución de las frecuencias a lo largo de la variable continua.
-    p.mb-5 En el caso de las ventas en un semestre, el gerente desea saber cómo es su estacionalidad o comportamiento típico, para lo cual el gerente presenta la siguiente información:
+    p(data-aos="fade-down-right") Es la distribución del comportamiento de una variable continua que denota la distribución de las frecuencias a lo largo de la variable continua.
+    p.mb-5(data-aos="fade-down-left") En el caso de las ventas en un semestre, el gerente desea saber cómo es su estacionalidad o comportamiento típico, para lo cual el gerente presenta la siguiente información:
     .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
       h5 Tabla 8
       br
       span Ejemplo del nivel de ventas por mes en primer semestre
-    table.text-center.my-5
+    table.text-center.my-5(data-aos="fade-down-right")
       tr
         th.bordestabla 
         th.fondo11.bordestabla Enero
@@ -451,7 +451,7 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 Diagrama de Pastel
-    p Es otro esquema de representación gráfica estadística que busca descomponer una variable en sus diferentes categorías, mostrando la cantidad de frecuencia o casos, evidenciando cuánto del total corresponde cada categoría dentro de la variable.
+    p(data-aos="fade-down-right") Es otro esquema de representación gráfica estadística que busca descomponer una variable en sus diferentes categorías, mostrando la cantidad de frecuencia o casos, evidenciando cuánto del total corresponde cada categoría dentro de la variable.
     span.text-bold Ejemplo: 
     span Para el caso del restaurante se desea saber cómo es el comportamiento o flujo de comensales en el horario de almuerzo, para lo cual el gerente del restaurante recibe de su administrador la siguiente información
     .row.justify-content-between.my-5
@@ -501,17 +501,17 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 Indicadores de gestión 
-    figure.my-5
+    figure.my-5(data-aos="fade-down-right")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/8hHQ0i5spgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.justify-content-center
+    .row.justify-content-center.align-items-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         p Los indicadores de gestión son los instrumentos a través de los cuales la empresa mide sus desempeños en las diferentes funciones, actividades que desarrolla y que contrasta con los resultados esperados y fijados desde una planeación.
         p Cuando se habla de indicadores de gestión, viene a la mente sinónimo de medición y control, que efectivamente es la función para la cual se establecen, es decir son los instrumentos que facilitan identificar y evaluar los niveles de cumplimiento o desviación de los logros o actividades a realizar frente a los resultados esperados.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")    
         img(src="@/assets/curso/tema4/figura6.svg")
-    p.mt-5 Se deben utilizar indicadores de gestión en todos los niveles empresariales para evaluar el desempeño y lo establecido como metas en la planeación de la gestión empresarial. 
-    p.mb-5 Ejemplo de algunos indicadores de gestión aplicados a cada una de las áreas funcionales de la empresa:
+    p.mt-5(data-aos="fade-down-right") Se deben utilizar indicadores de gestión en todos los niveles empresariales para evaluar el desempeño y lo establecido como metas en la planeación de la gestión empresarial. 
+    p.mb-5(data-aos="fade-down-left") Ejemplo de algunos indicadores de gestión aplicados a cada una de las áreas funcionales de la empresa:
     .row.my-4.align-items-center(data-aos="fade-down-right")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row
@@ -559,7 +559,7 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 Indicadores productivos
-    TabsA.color-acento-botones.mb-5
+    TabsA.color-acento-botones.mb-5(data-aos="fade-down-right")
       .tarjeta.fondo5.p-4(titulo="Calidad del producto")
         h4 Calidad del producto
         p Indica la proporción de productos defectuosos sobre el total de producto obtenido medido en unidades, en peso, o como se dé la producción, pero se expresa en porcentaje, a menor valor mayor calidad del producto
@@ -596,13 +596,13 @@
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 <i>Balanced Scorecard (BSC)</i>
-    p.my-5 El BSC es una herramienta de gestión que convierte la visión o el objetivo a más largo plazo que tiene la empresa, en acciones explícitas, que mediante un conjunto de indicadores de gestión divididos en cuatro categorías o perspectivas en que se debe regir la empresa o negocio, estas perspectivas son las siguientes:
+    p.my-5(data-aos="fade-down-right") El BSC es una herramienta de gestión que convierte la visión o el objetivo a más largo plazo que tiene la empresa, en acciones explícitas, que mediante un conjunto de indicadores de gestión divididos en cuatro categorías o perspectivas en que se debe regir la empresa o negocio, estas perspectivas son las siguientes:
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-1(data-aos="fade-down-left")
         .tarjeta.fondo13.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2.col-xxl-2.px-4
-              img(src="@/assets/curso/tema4/icono1.svg")
+            .col-3.col-sm-3.col-lg-2.col-xxl-2.px-xl-4
+              img.sizeimg(src="@/assets/curso/tema4/icono1.svg")
             .col-9.col-sm-9.col-lg-10.col-xxl-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -612,8 +612,8 @@
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-1(data-aos="fade-down-left")
         .tarjeta.fondo13.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2.col-lg-2.col-xxl-2.px-4
-              img(src="@/assets/curso/tema4/icono2.svg")
+            .col-3.col-sm-3.col-lg-2.col-lg-2.col-xxl-2.px-xl-4
+              img.sizeimg(src="@/assets/curso/tema4/icono2.svg")
             .col-9.col-sm-9.col-lg-10.col-xxl-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -623,8 +623,8 @@
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-1(data-aos="fade-down-left")
         .tarjeta.fondo13.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2.col-lg-2.col-xxl-2.px-4
-              img(src="@/assets/curso/tema4/icono3.svg")
+            .col-3.col-sm-3.col-lg-2.col-lg-2.col-xxl-2.px-xl-4
+              img.sizeimg(src="@/assets/curso/tema4/icono3.svg")
             .col-9.col-sm-9.col-lg-10.col-xxl-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -634,14 +634,14 @@
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-1(data-aos="fade-down-left")
         .tarjeta.fondo13.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-3.col-lg-2.col-xxl-2.px-4
-              img(src="@/assets/curso/tema4/icono4.svg")
+            .col-3.col-sm-3.col-lg-2.col-xxl-2.px-xl-4
+              img.sizeimg(src="@/assets/curso/tema4/icono4.svg")
             .col-9.col-sm-9.col-lg-10.col-xxl-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-bold.mb-1 Aprendizaje y crecimiento:
                   p Busca medir la satisfacción y compromiso del personal de la empresa, el clima organizacional y los aspectos de disponibilidad de tecnologías de sistemas de información. El cumplimiento de los planes de capacitación y diseño de los mismos, en conformidad a lo diagnosticado.
-    p.mb-5 En la siguiente figura se puede identificar la interacción que estas cuatro perspectivas tienen alrededor de la visión y misión empresarial, donde para su logro y desarrollo deben fijar y alcanzar objetivos por cada perspectiva, detallando los instrumentos de indicadores y metas de resultado.
+    p.mb-5(data-aos="fade-down-right") En la siguiente figura se puede identificar la interacción que estas cuatro perspectivas tienen alrededor de la visión y misión empresarial, donde para su logro y desarrollo deben fijar y alcanzar objetivos por cada perspectiva, detallando los instrumentos de indicadores y metas de resultado.
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-4(data-aos="fade-down-left")
         .titulo-sexto.color-acento-botones.mb-0

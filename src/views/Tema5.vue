@@ -2,11 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-down-right")
       .titulo-principal__numero
         span 5
       h1 Manual de funciones y responsabilidades
-    figure
+    figure(data-aos="fade-down-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/3KDDv2LrIcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
 
@@ -17,9 +17,9 @@
         p También hace parte importante para la ejecución de los procesos de planeación, requisitos de ingreso, permanencia y desarrollo del talento humano al servicio de la organización agropecuaria.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
         img(src="@/assets/curso/tema5/figura1.svg")
-    p.text-bold.mt-4 Características o particularidad de un manual de funciones y procedimientos.
-    p El enfoque de este documento recae mayormente en la administración de recursos humanos y en la contribución del mejoramiento y desarrollo de la empresa. Contiene las políticas y tareas a desarrollar, así como la descripción de los cargos de trabajo relacionados con el proceso.
-    p.text-bold.mb-5 Componentes de un manual de funciones:
+    p.text-bold.mt-4(data-aos="fade-down-right") Características o particularidad de un manual de funciones y procedimientos.
+    p(data-aos="fade-down-right") El enfoque de este documento recae mayormente en la administración de recursos humanos y en la contribución del mejoramiento y desarrollo de la empresa. Contiene las políticas y tareas a desarrollar, así como la descripción de los cargos de trabajo relacionados con el proceso.
+    p.text-bold.mb-5(data-aos="fade-down-right") Componentes de un manual de funciones:
     .row.justify-content-center.mb-4
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta fondo2")
@@ -53,12 +53,12 @@
           .row.justify-content-center.align-items-center(titulo="Conocimientos básicos o esenciales")
             .col-md-10.mb-4.mb-md-0.ps-4
               p Requisitos de formación académica y experiencia de quien desarrollará las actividades, ya que este aspecto fundamenta la idoneidad del trabajador.
-    p.mb-5 La importancia de los manuales de funciones y procedimientos nace en que fija las bases para realizar el control y evaluación de desempeño, por otro lado, facilita el autoaprendizaje del empleado acerca del funcionamiento de la empresa, los procesos donde participa y sus responsabilidades. Para una empresa del sector agropecuario es muy importante tener definido el manual específico de funciones de cada uno de sus empleados y saber cuál perfil ocupacional escoger de acuerdo a sus competencias laborales, pero sin desconocer los lineamientos del Ministerio del Trabajo, de la normatividad para el sector, etc.
-    .titulo-sexto.color-acento-botones.mb-0
+    p.mb-5(data-aos="fade-down-right") La importancia de los manuales de funciones y procedimientos nace en que fija las bases para realizar el control y evaluación de desempeño, por otro lado, facilita el autoaprendizaje del empleado acerca del funcionamiento de la empresa, los procesos donde participa y sus responsabilidades. Para una empresa del sector agropecuario es muy importante tener definido el manual específico de funciones de cada uno de sus empleados y saber cuál perfil ocupacional escoger de acuerdo a sus competencias laborales, pero sin desconocer los lineamientos del Ministerio del Trabajo, de la normatividad para el sector, etc.
+    .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
       h5 Figura 14
-    span.ms-4 Ejemplo de un manual de funciones
-    img.mt-5(src="@/assets/curso/tema5/tabla1.svg")
-    p.mt-5 Para ampliar conceptos sobre esta temática de manuales de funciones y procedimientos, se recomienda consultar el anexo.
+    p(data-aos="fade-down-right").ms-4 Ejemplo de un manual de funciones
+    img(data-aos="fade-down-left").mt-5(src="@/assets/curso/tema5/tabla1.svg")
+    p.mt-5(data-aos="fade") Para ampliar conceptos sobre esta temática de manuales de funciones y procedimientos, se recomienda consultar el anexo.
 </template>
 
 <script>

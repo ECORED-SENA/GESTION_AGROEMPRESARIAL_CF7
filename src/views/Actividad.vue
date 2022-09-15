@@ -7,7 +7,7 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-down-right")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/emparejamiento.svg")
+            img(src="@/assets/template/arrastrar.svg")
       .col-12.col-md-8.col-lg-9(data-aos="fade-down-left")
         .titulo-segundo
           h2 La gestión agroempresarial del talento humano.

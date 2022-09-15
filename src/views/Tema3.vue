@@ -2,19 +2,19 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-down-right")
       .titulo-principal__numero
         span 3
       h1 Estilos de dirección
     .row.justify-content-between.mb-4
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
         p La administración de una empresa agropecuaria está enfocada directamente en la toma de decisiones en los diferentes niveles de la organización, esto para el cumplimiento de las metas y objetivos. En este orden de ideas, el emprendedor o quien administra la unidad productiva debe tener autonomía, liderazgo en la toma de decisiones y manejo de los recursos económicos, físicos y humanos. Además, se debe tener autoridad, responsabilidad, coordinación y resolución de problemas, los cuales se presentan en las diferentes unidades de la empresa agropecuaria.  Existen tres estilos de dirección muy comunes que facilitan la toma de decisión como se indica en la siguiente tabla, y como fueron tratados en el proceso administrativo para dinamizar las empresas:
-      .col-xxl-4.col-xl-4.col-lg-4.col-md-12.mx-5(data-aos="fade-down-left")
+      .col-xxl-4.col-xl-4.col-lg-4.col-md-12.pe-5(data-aos="fade-down-left")
         img(src="@/assets/curso/tema3/figura1.svg")
     .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
       h5 Tabla 3
-    span.ms-4 Estilos de Dirección a partir de la toma de decisión
-    .tabla-a.color-acento-botones.my-5 
+    p(data-aos="fade-down-right").ms-4 Estilos de Dirección a partir de la toma de decisión
+    .tabla-a.color-acento-botones.my-5(data-aos="fade-down-left")
       table.text-center.bordestabla
         thead
           tr
@@ -38,7 +38,7 @@
             td.bordestabla Por Consenso
             td.bordestabla Alto
             td.bordestabla Alto
-    p.mb-5 De allí que sea fundamental para el departamento de recursos humanos o el administrador líder del proceso, seleccionar un buen administrador que realice su función de manera efectiva. Por medio de la diligencia correcta de un administrador se hace dinámico el equipo de trabajo, que opere y funcione de acuerdo a los recursos existentes.
+    p.mb-5(data-aos="fade-down-right") De allí que sea fundamental para el departamento de recursos humanos o el administrador líder del proceso, seleccionar un buen administrador que realice su función de manera efectiva. Por medio de la diligencia correcta de un administrador se hace dinámico el equipo de trabajo, que opere y funcione de acuerdo a los recursos existentes.
     .row.justify-content-center.align-items-center
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12.mb-5(data-aos="fade-down-right")
         img(src="@/assets/curso/tema3/figura2.svg")
