@@ -25,10 +25,10 @@
             ul.lista-ul
               li.mb-0 
                 i.fas.fa-check
-                | Test psicotécnicos, 
+                | Test psicotécnicos.
               li.mb-0
                 i.fas.fa-check
-                | Pruebas profesionales 
+                | Pruebas profesionales.
               li.mb-0 
                 i.fas.fa-check
                 | Pruebas físicas y de demostración de dominio de labor. 
@@ -48,7 +48,7 @@
             p Posteriormente se remite al nuevo empleado a la valoración médica, ya que se busca identificar con qué condiciones de salud para el trabajo tiene el postulante.
           .tarjeta.fondo16.p-3(x="17%" y="83%" numero="6")
             .h5.mb-2 Incorporación al puesto
-            p Es cuando el trabajador inicia labores formalmente en la empresa, estableciendo un período de prueba de prueba el cual no puede ser mayor a seis meses, de contar con contrato a término indefinido.
+            p Es cuando el trabajador inicia labores formalmente en la empresa, estableciendo un período de prueba el cual no puede ser mayor a seis meses, de contar con contrato a término indefinido.
             
           .tarjeta.fondo16.p-3(x="4%" y="50%" numero="7")
             .h5.mb-2 Inducción y capacitación
@@ -90,7 +90,7 @@
             td.bordestabla.text-center La selección del personal adecuado ayuda a la gerencia a realizar el trabajo de manera efectiva.
           tr
             td.bordestabla.text-center 
-              span.text-bold Relación a:
+              span.text-bold Relaciona a:
             td.bordestabla.text-center El reclutamiento convoca a los trabajadores de la empresa, favoreciendo el ejercicio de promoción y desarrollo 
             td.bordestabla.text-center La decisión de contratación es potestativa del empresario.
 </template>

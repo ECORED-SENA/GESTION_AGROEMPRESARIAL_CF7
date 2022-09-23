@@ -78,7 +78,7 @@
         img(src='@/assets/curso/tema8/figura3.svg')
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12(data-aos="fade-down-right")
         h4.fondotitulo.text-white.text-center.text-bold.mb-0.py-2 Tipos de reclutamiento
-        p.text-bold.my-3 Cuando tu empresa necesita personal es indispensable 
+        p.text-bold.my-3 Cuando tu empresa necesita personal, es indispensable 
           span.colorletra.text-bold analizar a detalle 
           span qué tipo de perfil es el más adecuado para ocupar este puesto. Según la vacante será el tipo de reclutamiento:
         p.fondo11.text-bold a. Reclutamiento interno. 

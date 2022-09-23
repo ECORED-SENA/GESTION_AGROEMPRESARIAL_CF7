@@ -57,8 +57,7 @@
     .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
       h5 Figura 14
     p(data-aos="fade-down-right").ms-4 Ejemplo de un manual de funciones
-    img(data-aos="fade-down-left").mt-5(src="@/assets/curso/tema5/tabla1.svg")
-    p.mt-5(data-aos="fade") Para ampliar conceptos sobre esta temática de manuales de funciones y procedimientos, se recomienda consultar el anexo.
+    img(data-aos="fade").mt-5(src="@/assets/curso/tema5/tabla1.svg")
 </template>
 
 <script>

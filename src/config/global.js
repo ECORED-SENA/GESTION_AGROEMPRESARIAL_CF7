@@ -5,7 +5,6 @@ export default {
       'En este componente formativo se resalta la importancia del Recurso de Talento Humano dentro de las empresas, evidenciando su importancia en todas las funciones y actividades de la misma, desarrollando la comunicación, la creación de un ambiente laboral positivo y permitiendo el desarrollo de los trabajadores en un ambiente de armonía empresarial.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
-    fondoBannerInterno: require('@/assets/curso/portada/fondo-banner-interno.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -196,7 +195,7 @@ export default {
     {
       termino: 'Agremiación',
       significado:
-        'Asociación sin ánimo de lucro y con personería jurídica que reúne personas del mismo oficio o profesión dedicadas a la producción de bienes agrícolas o forestales” (MinAgricultura, 2018).',
+        'Asociación sin ánimo de lucro y con personería jurídica que reúne personas del mismo oficio o profesión dedicadas a la producción de bienes agrícolas o forestales (MinAgricultura, 2018).',
     },
     {
       termino: 'Empleador',
@@ -297,7 +296,7 @@ export default {
     },
     {
       referencia:
-        'Garza, T. J. (2009). Administración Contemporánea. Reto para la empresa . Ed. Alhambra Mexicana.',
+        'Garza, T. J. (2009). Administración Contemporánea. Reto para la empresa. Ed. Alhambra Mexicana.',
     },
     {
       referencia:
@@ -312,11 +311,11 @@ export default {
     },
     {
       referencia:
-        'Laurence, P. (2014). Diagnóstico Organizacional. En L. Jayh, . México D.F.: Centro Regional de Ayuda Técnica.',
+        'Laurence, P. (2014). Diagnóstico Organizacional. En L. Jayh. México D.F.: Centro Regional de Ayuda Técnica.',
     },
     {
       referencia:
-        'Portugal, V. (s.f.). Diagnóstico Empresarial. Fundación universitaria del Areandina.',
+        'Portugal, V. (s.f.). Diagnóstico Empresarial. Fundación Universitaria del Areandina.',
     },
     {
       referencia:
@@ -324,26 +323,27 @@ export default {
     },
     {
       referencia:
-        'Tlaxcala, I. t. (s.f.). Herramientas Estadisticas- Instituto tecnológico Apizaco de Tlaxcala. Obtenido de Herramientas Estadisticas',
+        'Tlaxcala, I. t. (s.f.). Herramientas Estadisticas - Instituto tecnológico Apizaco de Tlaxcala. Obtenido de Herramientas Estadisticas',
       link:
         'https://alfredogutierrez.weebly.com/16-herramientas-estadisticas.html',
     },
     {
       referencia:
-        'UPRA, Unidad de Planeamiento Rural Agropecuario. Ministerio de agricultura.. (2017). Mercado de Productos Agropecuarios',
+        'UPRA, Unidad de Planeamiento Rural Agropecuario. Ministerio de agricultura. (2017). Mercado de Productos Agropecuarios.',
     },
     {
       referencia:
-        'Blandez Ricalde , M. G. (2014). Proceso Administrativo. Estado de México, México: Editorial Digital UNID.',
+        'Blandez Ricalde, M. G. (2014). Proceso Administrativo. Estado de México, México: Editorial Digital UNID.',
     },
     {
       referencia:
-        'Garcia Echeverria , S. (1994). Introducción a la Economía de la Empresa. Madrid, España.: Ediciones Díaz de Santos, S.A. Obtenido de',
-      link: 'https://bit.ly/3f1XlRg',
+        'Garcia Echeverria, S. (1994). Introducción a la Economía de la Empresa. Madrid, España.: Ediciones Díaz de Santos, S.A. Obtenido de',
+      link:
+        'https://books.google.com.ni/books?id=Lo10xtQ3D0kC&printsec=frontcover&dq=introdu%20ccion+a+la+economia+de+la+empresa+santiago+garcia+echevarria+pdf&hl=es&sa=X&%20ved=0ahUKEwjU_-qRh5XkAhWSjFkKHb1xAN0Q6AEIJzAA#v=onepage&q&f=false',
     },
     {
       referencia:
-        'Las Limas . (2019). Planeación de la empresa. Empresa “Las Limas S.A.”, Estelí, Nicaragua.',
+        'Las Limas. (2019). Planeación de la empresa. Empresa “Las Limas S.A.”, Estelí, Nicaragua.',
     },
     {
       referencia:
@@ -355,7 +355,7 @@ export default {
     },
     {
       referencia:
-        'Palermo, I. (08 de Octubre de 2019). Entrevista a Gerente del área de Recursos Humanos. (S. Herrera, Entrevistador)',
+        'Palermo, I. (08 de Octubre de 2019). Entrevista a Gerente del área de Recursos Humanos. (S. Herrera, Entrevistador).',
     },
     {
       referencia:
@@ -363,7 +363,7 @@ export default {
     },
     {
       referencia:
-        'Siliézar , M. A. (2011). Técnicas de Reclutamiento y Selección de Personal. España: MS.',
+        'Siliézar, M. A. (2011). Técnicas de Reclutamiento y Selección de Personal. España: MS.',
     },
   ],
   creditos: {

@@ -47,7 +47,7 @@
             td.bordestabla Pescados, mariscos, etc.
             td.bordestabla Otras producciones avícolas derivadas
             td.bordestabla 
-    p.my-5(data-aos="fade-down-right") Cada categoría de actividades del sector contempla regulaciones y normas, sistemas de producción específica, tecnologías, y por tanto, requerimientos y disponibilidad de recursos humanos capacitados para las diferentes labores a desarrollar, pues se busca que la actividad agropecuaria sea eficaz y cumpla con el objetivo de satisfacer las necesidades de la sociedad, por lo cual requiere de empresas que desarrollen un procesos administrativo ajustado a su dedicación.
+    p.my-5(data-aos="fade-down-right") Cada categoría de actividades del sector contempla regulaciones y normas, sistemas de producción específica, tecnologías, y por tanto, requerimientos y disponibilidad de recursos humanos capacitados para las diferentes labores a desarrollar, pues se busca que la actividad agropecuaria sea eficaz y cumpla con el objetivo de satisfacer las necesidades de la sociedad, por lo cual requiere de empresas que desarrollen un proceso administrativo ajustado a su dedicación.
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-8.col-md-12
         .titulo-sexto.color-acento-botones(data-aos="fade-down-right")
@@ -63,7 +63,7 @@
     .row
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mt-0.mt-lg-5(data-aos="fade-up-left")
         p.p-4.fondo1.correrder La planeación se define como identificar y sensibilizar alternativas para lograr fines, a partir de una necesidad u objetivos, así mismo, comprende la determinación de formas organizadas de actividades que permiten alcanzar los objetivos o fines esperados.
-        p Consiste en saber qué se va a hacer por anticipado, cuál va a ser la dirección que se va a tomar para alcanzar los objetivos y metas trazada en la empresa de la manera más eficiente. Este ejercicio sirve para establecer el camino de gestiones a realizar y no perder de vista el trabajo que se debe realizar en el tiempo, de igual forma, para que los trabajadores y personal de la empresa orienten sus talentos y esfuerzos las actividades conducentes al cumplimiento de la misión y objetivos empresariales.
+        p Consiste en saber qué se va a hacer por anticipado, cuál va a ser la dirección que se va a tomar para alcanzar los objetivos y metas trazada en la empresa de la manera más eficiente. Este ejercicio sirve para establecer el camino de gestiones a realizar y no perder de vista el trabajo que se debe realizar en el tiempo, de igual forma, para que los trabajadores y personal de la empresa orienten sus talentos y esfuerzos, las actividades conducentes al cumplimiento de la misión y objetivos empresariales.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-up-right")
         img(src='@/assets/curso/tema1/imagen1.jpg')
     .row.justify-content-center.my-5.align-items-center
@@ -182,7 +182,7 @@
             | Dentro de la estrategia para el logro de este propósito dentro de la planificación de producción, se puede desarrollar una plantación por lotes y producción agregada anual, semestral, trimestral.
           li
             i.fas.fa-check
-            | El Plan de acción requiere para el desarrollo de las actividades una serie de recursos a utilizar como es presupuesto la cantidad de mano de obra requerida, los insumos necesarios y la maquinaria a utilizar para realizar las labores en el horizonte del plan.
+            | El Plan de acción requiere para el desarrollo de las actividades una serie de recursos a utilizar como es presupuesto, la cantidad de mano de obra requerida, los insumos necesarios y la maquinaria a utilizar para realizar las labores en el horizonte del plan.
           li
             i.fas.fa-check
             | En el cronograma se detallan las fechas o hitos en que se deben realizar cada una de las labores, especificando los recursos estimados, tal es el caso de inicio de preparación del terreno, que requiere de operarios, un tractor; la siembra, requiere un número de operarios, cantidad de semillas y la implementación de un sistema de riego, etc. 
@@ -210,7 +210,7 @@
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 1.2 Organización
-    p.mb-5(data-aos="fade-down-left") La organización como función del proceso administrativo busca la adecuación de los recursos empresariales entendida como la agrupación de las actividades y los recursos necesarios por cada área funcional, para llevar a cabo las actividades en cumplimiento de los planes establecidos y mantener las relaciones entre los empleados. Es decir, se trata de establecer desde la estructura empresarial y sus áreas funcionales un agrupamiento por cargos para ejecutar las actividades en lo que se denomina, división del trabajo, asignando para ello los recursos necesarios para su realización
+    p.mb-5(data-aos="fade-down-left") La organización como función del proceso administrativo busca la adecuación de los recursos empresariales entendida como la agrupación de las actividades y los recursos necesarios por cada área funcional, para llevar a cabo las actividades en cumplimiento de los planes establecidos y mantener las relaciones entre los empleados. Es decir, se trata de establecer desde la estructura empresarial y sus áreas funcionales un agrupamiento por cargos para ejecutar las actividades en lo que se denomina, división del trabajo, asignando para ello los recursos necesarios para su realización.
     .titulo-sexto.color-acento-botones.mt-4(data-aos="fade-down-right")
       h5.mb-0 Figura 3
       br
@@ -383,7 +383,6 @@
         p La estimación de los diferentes recursos para operar una empresa parte de las funciones y actividades a realizar, donde, las cuales se agrupan en cargos y estos a su vez son ocupados y desarrollados por personas a quienes se les asigna un salario en conformidad a sus capacidades y talentos. A su vez, los trabajadores necesitarán recursos físicos, técnicos y tecnológicos para el desarrollo de sus labores, por tanto, se deben asignar según corresponda. Algunos recursos no son asignarles a un cargo o puesto en sí, sino son activos de uso general los cuales se suman al final a los asignados a las labores funcionales de los trabajadores.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
         img(src="@/assets/curso/tema1/imagen9.jpg")
-    p.mb-5(data-aos="fade-down-right") En la siguiente tabla se describe la técnica para la asignación y estimación de recursos para el desarrollo de las actividades por cada tipo de agrupación o cargo. Para mayores detalles consulte el anexo: presupuesto de recursos administrativos por área o proceso, donde podrá disponer de dicho instrumento modelo.
     .tarjeta.color-acento-contenido.p-3.mb-5.sombra(data-aos="fade-down-left")
       .row.justify-content-around.align-items-center
         .col-4.col-sm-4.col-md-3.col-lg-1.ms-3
@@ -394,7 +393,7 @@
               p.text-bold.mb-1 Presupuesto de recursos administración por área o proceso
               p En la siguiente tabla se describe la técnica para la asignación y estimación de recursos para el desarrollo de las actividades por cada tipo de agrupación o cargo. Para mayores detalles consulte el anexo: presupuesto de recursos administrativos por área o proceso, donde podrá disponer de dicho instrumento modelo.
             .col-sm-auto
-              a.boton.fondo7(:href="obtenerLink('downloads/asignación_y_estimación_de_recursos.pdf')" target="_blank")
+              a.boton.fondo7(:href="obtenerLink('downloads/asignacion_y_estimacion_de_recursos.pdf')" target="_blank")
                 span.text-dark Descargar
                 i.fas.fa-file-download.text-dark
     separador
@@ -404,13 +403,13 @@
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-right")
         img(src="@/assets/curso/tema1/imagen10.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
-        p La dirección como función del proceso administrativo consiste en dinamizar la empresa y poner en operación y ejecución la planeación, es decir el conjunto de iniciativas estratégicas para lograr los objetivos previstos. Una vez que se completa el proceso de planeación y de organización, hay que cumplir con la disposición de los recursos para el desarrollo de las actividades, esto presupone que hay que contratar talento humano si hace falta, comprar recursos, arrendar o reorganizar tierras lotes, bodegas, como ajustar las asignaciones de actividades de manera formal de darse a lugar. La ejecución requiere de funciones como la comunicación para la coordinación, el liderazgo para hacer que las personas desarrollen sus labores con motivación y diligencia
+        p La dirección como función del proceso administrativo consiste en dinamizar la empresa y poner en operación y ejecución la planeación, es decir el conjunto de iniciativas estratégicas para lograr los objetivos previstos. Una vez que se completa el proceso de planeación y de organización, hay que cumplir con la disposición de los recursos para el desarrollo de las actividades, esto presupone que hay que contratar talento humano si hace falta, comprar recursos, arrendar o reorganizar tierras, lotes, bodegas, como ajustar las asignaciones de actividades de manera formal de darse a lugar. La ejecución requiere de funciones como la comunicación para la coordinación, el liderazgo para hacer que las personas desarrollen sus labores con motivación y diligencia.
     figure(data-aos="fade-down-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/eRlbKj0qQV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
-      h2 1.4 control
+      h2 1.4 Control
     p(data-aos="fade-down-right") La función de control del proceso administrativo consiste en establecer resultados esperados en la planeación y compararlos contra los resultados obtenidos al ejecutar; en la medida que existan desviaciones se realizan los ajustes necesarios para el logro de los resultados esperados.
     p.mb-4(data-aos="fade-down-left") Debido a cambios en los costos o en otros factores, los resultados obtenidos después de que el plan se ejecutó pueden desviarse de los resultados esperados; esto se debe a la incertidumbre y el riesgo que existe en la producción agrícola; no obstante, es necesario identificar el tipo y magnitud de las desviaciones tan pronto como sea posible, pues tiene impactos directos contra las utilidades.
     .row.justify-content-center

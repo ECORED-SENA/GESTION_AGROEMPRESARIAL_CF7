@@ -26,10 +26,23 @@
             p La matriz DOFA al igual que en otras actividades empresariales es igualmente aplicable para el diagnóstico y la verificación de la gestión del recurso humano.
     .row.justify-content-center.mb-5
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
-        p De manera general, el departamento de recursos humanos sirve de apoyo logístico para la empresa, encargándose de la administración económica y contractual de los trabajadores, mientras que los aspectos administrativos funcionales son responsabilidad del área a la cual pertenezcan cada uno de los trabajadores, pue es allí donde presta sus servicios, le asignan las actividades, tiene su desempeño. Este ejercicio debe procurar contar con condiciones adecuadas para obtener la máxima productividad del personal.
-        p Por lo anterior, el departamento de recursos humanos debe realizar un diagnóstico respecto de las variables propias o relacionadas con las gestiones que realiza en la gestión del talento humano que están bajo su responsabilidad, realizando preguntas que permitan identificar las fortalezas, oportunidades, debilidades y amenazas que por naturaleza tienen las áreas de recursos humanos. Este diagnóstico se puede realizar a partir de jornadas grupales o por encuesta de donde cada empleado participa y emite su percepción (ver Anexo ejemplo de formato de Diagnóstico de talento humano por encuesta.
+        p De manera general, el departamento de recursos humanos sirve de apoyo logístico para la empresa, encargándose de la administración económica y contractual de los trabajadores, mientras que los aspectos administrativos funcionales son responsabilidad del área a la cual pertenezcan cada uno de los trabajadores, pues es allí donde presta sus servicios, le asignan las actividades, tiene su desempeño. Este ejercicio debe procurar contar con condiciones adecuadas para obtener la máxima productividad del personal.
+        p Por lo anterior, el departamento de recursos humanos debe realizar un diagnóstico respecto de las variables propias o relacionadas con las gestiones que realiza en la gestión del talento humano que están bajo su responsabilidad, realizando preguntas que permitan identificar las fortalezas, oportunidades, debilidades y amenazas que por naturaleza tienen las áreas de recursos humanos. Este diagnóstico se puede realizar a partir de jornadas grupales o por encuesta de donde cada empleado participa y emite su percepción.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-right")
         img(src='@/assets/curso/tema4/imagen3.jpg')
+    .tarjeta.color-acento-contenido.p-3.my-5.sombra(data-aos="fade")
+      .row.justify-content-around.align-items-center
+        .col-4.col-sm-4.col-md-3.col-lg-2.col-xl-1.col-xxl-1.ms-3.pt-4.pt-lg-0
+          img.mb-4.mb-lg-0(src="@/assets/curso/tema7/figura1.svg")
+        .col-lg-9.col-xl-10.col-xxl-10.col-md-11.col-sm-12.py-3.py-lg-4
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0.text-white
+              p.text-bold.mb-3 Diagnóstico del talento humano
+              p En el siguiente anexo podrás ver el ejemplo de un formato de Diagnóstico de talento humano por encuesta.
+            .col-sm-auto
+              a.boton.fondo7(:href="obtenerLink('downloads/Ejemplo_Encuesta_diagnostico_talento_humano.pdf')" target="_blank")
+                span.text-dark Descargar
+                i.fas.fa-file-download.text-dark
     .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
       h5 Tabla 4
     p.ms-4(data-aos="fade-down-right") Ejemplo de preguntas para adelantar una matriz DOFA
@@ -157,7 +170,7 @@
             ul.lista-ul
               li.mb-0
                 i.fas.fa-check
-                | Escuchar las inquietudes de los trabajadores, sobre aspectos de cómo se llevan los procesos, la conciliación de las soluciones a los conflictos que se le puede dar etc.
+                | Escuchar las inquietudes de los trabajadores, sobre aspectos de cómo se llevan los procesos, la conciliación de las soluciones a los conflictos que se le puede dar, etc.
               li.mb-0
                 i.fas.fa-check
                 | Fomentar el respeto entre los colaboradores, 
@@ -185,7 +198,7 @@
                 | Charlas motivacionales, donde los trabajadores se sientan importantes y despierten sentido de pertenencia con la empresa.
               li.mb-0
                 i.fas.fa-check
-                | Cursos de cualificación y complemento a la formación para todos los colaboradores (cursos de sistemas, inglés, cursos técnicos con base a sus funciones del cargo.
+                | Cursos de cualificación y complemento a la formación para todos los colaboradores (cursos de sistemas, inglés, cursos técnicos con base a sus funciones del cargo).
               li.mb-0
                 i.fas.fa-check
                 | Aumentos de salario a trabajadores destacados permanentemente en sus labores.
@@ -284,7 +297,7 @@
         h4.mb-0.ms-0.margentitulo2 Diagrama de Pareto
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
-        p Esta herramienta es una forma particular de un diagrama de barras verticales utilizado para identificar los pocos vitales y los muchos triviales que puede tener una empresa, donde los primeros son en gran medida los responsables de la mayor parte de los efectos negativos de los problemas en la empresa, donde caso siempre se asocian a una relación 70-30 o 80-20, esto es, que del total de los múltiples problemas que puede tener una empresa entre el 70% al 80% se concentran en pocas causas, y el resto de problemas que son múltiples representan entre el 20% al 30% de los casos, por lo cual la empresa debe concentrar su atención en resolver esos pocos problemas que son vitales para el negocio pues tienen mucho efecto, y que solucionando estos probablemente se resuelven muchos de los aspectos menores .
+        p Esta herramienta es una forma particular de un diagrama de barras verticales utilizado para identificar los pocos vitales y los muchos triviales que puede tener una empresa, donde los primeros son en gran medida los responsables de la mayor parte de los efectos negativos de los problemas en la empresa, donde caso siempre se asocian a una relación 70-30 o 80-20, esto es, que del total de los múltiples problemas que puede tener una empresa entre el 70% al 80% se concentran en pocas causas, y el resto de problemas que son múltiples representan entre el 20% al 30% de los casos, por lo cual la empresa debe concentrar su atención en resolver esos pocos problemas que son vitales para el negocio pues tienen mucho efecto, y que solucionando estos probablemente se resuelven muchos de los aspectos menores.
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-right")
         img(src="@/assets/curso/tema4/imagen11.jpg")
     .row.justify-content-center.my-5
@@ -343,7 +356,7 @@
                 td.bordestabla.text-center 
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-right")
           h5 Figura 9
-        p.ms-4(data-aos="fade-down-right") Ejemplo de Diagrama de Pareto para análisis del comportamiento de las  y reclamos en una empresa
+        p.ms-4(data-aos="fade-down-right") Ejemplo de Diagrama de Pareto para análisis del comportamiento de las quejas y reclamos en una empresa
         img(data-aos="fade-down-left").my-4(src="@/assets/curso/tema4/figura2.svg")
     p(data-aos="fade-down-right") En este ejemplo anterior, se puede observar que del total de los 156 casos de quejas y reclamos, el 74,4% de los casos corresponden a tres causas, mientras que las otras cuatro causas de quejas solo contemplan el restante 25,6%; por lo cual la empresa debe tomar decisiones relacionadas con estas causas que concentran la mayoría de las quejas de los clientes por los productos adquiridos, siendo que en la búsqueda de solucionar estos inconvenientes, y conscientes de la importancia para la empresa, los demás aspectos seguramente también se corregirán.
     p.mb-5(data-aos="fade-down-left") Esta herramienta tiene muchas aplicabilidades, para el análisis en la empresa, y por ende facilitar la toma de decisiones, es un ejercicio de aplicabilidad de la administración promoverla al interior de sus diferentes áreas funcionales.
@@ -360,28 +373,37 @@
       h5 Tabla 7
       br
       p(data-aos="fade-down-right") Ejemplo de concentración del estado de cartera por ventas (millones)
-    table.text-center.my-5(data-aos="fade-down-left")
-      tr
-        th.bordestabla 
-        th.fondo11.bordestabla Corriente
-        th.fondo11.bordestabla 30 días
-        th.fondo11.bordestabla 60 días
-        th.fondo11.bordestabla 90 días
-        th.fondo11.bordestabla Total de Cartera
-      tr.text-center
-        th.bordestabla Cartera
-        td.bordestabla 50
-        td.bordestabla 35
-        td.bordestabla 15
-        td.bordestabla 12
-        td.bordestabla 112
-      tr
-        th.bordestabla Frecuencia
-        td.bordestabla 44,6 %
-        td.bordestabla 31,3 %
-        td.bordestabla 13,4 %
-        td.bordestabla 10,7 %
-        td.bordestabla 100,0 %
+
+    .tabla-a.my-5.align-items-left(data-aos="fade-down-left")
+      table
+        thead
+          tr
+            th.bordestabla.fondoblanco.bordesup 
+            th.fondo11.bordestabla.bordesup Corriente
+            th.fondo11.bordestabla.bordesup 30 días
+            th.fondo11.bordestabla.bordesup 60 días
+            th.fondo11.bordestabla.bordesup 90 días
+            th.fondo11.bordestabla.bordesup Total de Cartera
+
+        tbody
+          tr.text-center
+            td.bordestabla 
+              p.text-bold Cartera
+            td.bordestabla 50
+            td.bordestabla 35
+            td.bordestabla 15
+            td.bordestabla 12
+            td.bordestabla 112
+
+          tr.text-center
+            td.bordestabla 
+              p.text-bold Frecuencia
+            td.bordestabla 44,6 %
+            td.bordestabla 31,3 %
+            td.bordestabla 13,4 %
+            td.bordestabla 10,7 %
+            td.bordestabla 100,0 %
+
     p.my-5(data-aos="fade-down-right") A partir de esta información suministrada por el gerente de las centrales de mercado, y quien resumió los promedios del número de Toneladas por producto que se venden diariamente en el en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos.
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-4(data-aos="fade-down-left")
@@ -404,34 +426,43 @@
       h5 Tabla 8
       br
       span Ejemplo del nivel de ventas por mes en primer semestre
-    table.text-center.my-5(data-aos="fade-down-right")
-      tr
-        th.bordestabla 
-        th.fondo11.bordestabla Enero
-        th.fondo11.bordestabla Febrero
-        th.fondo11.bordestabla Marzo
-        th.fondo11.bordestabla Abril
-        th.fondo11.bordestabla Mayo
-        th.fondo11.bordestabla Junio
-        th.fondo11.bordestabla  Total de Cartera
-      tr.text-center
-        th.bordestabla Ventas/mes
-        td.bordestabla 50
-        td.bordestabla 20
-        td.bordestabla 70
-        td.bordestabla 50
-        td.bordestabla 40
-        td.bordestabla 65
-        td.bordestabla 300
-      tr
-        th.bordestabla %
-        td.bordestabla 18,3 %
-        td.bordestabla 6,7 %
-        td.bordestabla 23,3 %
-        td.bordestabla 16,7 %
-        td.bordestabla 13,3 %
-        td.bordestabla 21,7 %
-        td.bordestabla 100,0 %
+
+    .tabla-a.my-5.align-items-left(data-aos="fade-down-left")
+      table
+        thead
+          tr
+            th.bordestabla.fondoblanco
+            th.fondo11.bordestabla Enero
+            th.fondo11.bordestabla Febrero
+            th.fondo11.bordestabla Marzo
+            th.fondo11.bordestabla Abril
+            th.fondo11.bordestabla Mayo
+            th.fondo11.bordestabla Junio
+            th.fondo11.bordestabla Total de Cartera
+
+        tbody
+          tr.text-center
+            td.bordestabla 
+              p.text-bold Ventas / mes
+            td.bordestabla 50
+            td.bordestabla 20
+            td.bordestabla 70
+            td.bordestabla 50
+            td.bordestabla 40
+            td.bordestabla 65
+            td.bordestabla 300
+
+          tr.text-center
+            td.bordestabla 
+              p.text-bold %
+            td.bordestabla 18,3 %
+            td.bordestabla 6,7 %
+            td.bordestabla 23,3 %
+            td.bordestabla 16,7 %
+            td.bordestabla 13,3 %
+            td.bordestabla 21,7 %
+            td.bordestabla 100,0 %
+
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-4(data-aos="fade-down-left")            
         .titulo-sexto.color-acento-botones.mb-0
@@ -453,19 +484,18 @@
         h4.mb-0.ms-0.margentitulo2 Diagrama de Pastel
     p(data-aos="fade-down-right") Es otro esquema de representación gráfica estadística que busca descomponer una variable en sus diferentes categorías, mostrando la cantidad de frecuencia o casos, evidenciando cuánto del total corresponde cada categoría dentro de la variable.
     span.text-bold Ejemplo: 
-    span Para el caso del restaurante se desea saber cómo es el comportamiento o flujo de comensales en el horario de almuerzo, para lo cual el gerente del restaurante recibe de su administrador la siguiente información
     .row.justify-content-between.my-5
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12.mb-4(data-aos="fade-down-left")
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
           h5 Tabla 9
           br
-          span Ejemplo de Toneladas de verduras vendidas por tipo de mercado
+          span Distribución de empleados de la empresa por región de operación
 
         table.bordestabla.my-5
           thead.text-center
             tr.bordesup.fondo11
               th.bordeencabezado.anchocol Región
-              th.bordeencabezado Número de clientes
+              th.bordeencabezado Número de empleados por sucursal
           tbody
             tr
               td.bordestabla.anchocol Boyacá
@@ -484,7 +514,7 @@
               td.bordestabla.text-center 15
 
             tr
-              td.bordestabla.text-bold.anchocol Total: Clientes regionales
+              td.bordestabla.text-bold.anchocol Total: Empleados
               td.bordestabla.text-center.text-bold 50 
 
  
@@ -543,10 +573,11 @@
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Razón Corriente") Mide la capacidad de liquidez que tiene la empresa para pagar las obligaciones financieras o pasivos de corto plazo con recursos de activos corrientes o de corto plazo.
-            img.px-0.px-lg-5.mt-3.sizeimg(src="@/assets/curso/tema4/ecuacion5.svg")
+            img.px-0.my-3(src="@/assets/curso/tema4/ecuacion5.svg")
+            <span>Si es mayor a 1 significa que sus activos corrientes cubren sus obligaciones de corto plazo</span>
           p(numero="2" titulo="Razón de endeudamiento") Mide el nivel de endeudamiento que tiene la empresa, es decir la cantidad de recursos de la empresa que ha financiado con recursos monetarios ajenos.
             img.mt-3(src="@/assets/curso/tema4/ecuacion6.svg")
-          p(numero="3" titulo="Nivel de cobertura de intereses") Mide en qué porcentaje la empresa genera utilidades operativas superiores para poder pagar los intereses de sus obligaciones
+          p(numero="3" titulo="Nivel de cobertura de intereses") mide en qué porcentaje la empresa genera utilidades operativas superiores para poder pagar los intereses de sus obligaciones
             img.mt-3(src="@/assets/curso/tema4/ecuacion7.svg")
           p(numero="4" titulo="Nivel de Rentabilidad Neta") Mide la proporción de la utilidad respecto de las ventas netas de la empresa en un periodo
             img.mt-3(src="@/assets/curso/tema4/ecuacion8.svg")        
@@ -572,7 +603,7 @@
       .tarjeta.fondo5.p-4(titulo="Nivel de desperdicio")
         h4 Nivel de desperdicio
         p Permite medir el nivel de eficiencia en el uso de los recursos
-        img.px-0.px-lg-5.mt-3.sizeimg(src="@/assets/curso/tema4/ecuacion11.png")
+        img.px-0.px-lg-5.mt-3.sizeimg(src="@/assets/curso/tema4/ecuacion11.svg")
     .row.my-4.align-items-center(data-aos="fade-down-right")
       .col-xxl-1.col-xl-1.col-lg-1.col-md-1.col-sm-1.col-2
         .row

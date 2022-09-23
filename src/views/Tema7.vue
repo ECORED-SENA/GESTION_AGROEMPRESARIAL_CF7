@@ -61,7 +61,7 @@
     
           .row.justify-content-center.px-3(titulo="<span style='margin-left: 1em;'>Evaluación y desempeño</span>")
             .col-lg-8.mb-4.mb-md-0
-              p Como soporte logístico de la empresa, uno de los compromisos del área de recursos humanos es lograr el mejoramiento permanente de la organización, haciéndolas más eficientes y más eficaces, donde para ello acude a esquemas de evaluación que definen los pasos a seguir para valorar el rendimiento de cada integrante de la empresa. Tiene como finalidad establecer estrategias para la solución de problemas, orientar la capacitación, identificar conflictos, lograr motivar a los trabajadores y fomentar su desarrollo personal dentro de la empresa. no se debe concebir como una manera de castigar o reprender.
+              p Como soporte logístico de la empresa, uno de los compromisos del área de recursos humanos es lograr el mejoramiento permanente de la organización, haciéndolas más eficientes y más eficaces, donde para ello acude a esquemas de evaluación que definen los pasos a seguir para valorar el rendimiento de cada integrante de la empresa. Tiene como finalidad establecer estrategias para la solución de problemas, orientar la capacitación, identificar conflictos, lograr motivar a los trabajadores y fomentar su desarrollo personal dentro de la empresa. No se debe concebir como una manera de castigar o reprender.
               p Debe ser un proceso permanente y continuo, para que tenga utilidad en la organización. La evaluación del desempeño será realmente útil al trabajador y a la empresa cuando estos sientan que se les ayuda a mejorar en las responsabilidades y funciones, como medida para el crecimiento profesional.
           
             .col-lg-4.pe-0.pe-lg-5
