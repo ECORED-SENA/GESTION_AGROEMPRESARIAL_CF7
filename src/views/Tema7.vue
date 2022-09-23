@@ -23,7 +23,7 @@
               p El departamento de recursos humanos debe ser el promotor de La Seguridad y Salud en el trabajo (SST), tal como dicta el Ministerio de Salud, llevado como una disciplina que busca prevenir de las lesiones y las enfermedades causadas por las condiciones de trabajo, velando por la protección y promoción de la salud de los trabajadores.
             .col-lg-4.pe-0.pe-lg-5
               figure
-                img(src='@/assets/curso/tema7/imagen2.jpg')
+                img(src='@/assets/curso/tema7/imagen2.png')
     
           .row.justify-content-center.px-3(titulo="<span style='margin-left: 1em;'>Ambiente laboral</span>")
             .col-lg-8.mb-4.mb-md-0

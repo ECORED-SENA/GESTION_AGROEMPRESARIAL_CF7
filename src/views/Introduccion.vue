@@ -5,7 +5,8 @@
   
     .titulo-principal.color-acento-contenido(data-aos="fade")
       .titulo-principal__numero
-        span.text-white i
+        span 
+          i.fas.fa-info
       h1 Introducción
     p.mb-5(data-aos="fade-down-right") En este componente formativo se tratan los temas relacionados respecto a la importancia del Recurso de Talento Humano dentro de las empresas, empecemos con un contexto general a continuación:
     figure(data-aos="fade")
