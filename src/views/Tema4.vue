@@ -404,7 +404,7 @@
             td.bordestabla 10,7 %
             td.bordestabla 100,0 %
 
-    p.my-5(data-aos="fade-down-right") A partir de esta información suministrada por el gerente de las centrales de mercado, y quien resumió los promedios del número de Toneladas por producto que se venden diariamente en el en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos.
+    p.my-5(data-aos="fade-down-right") A partir de esta información suministrada por el gerente de las centrales de mercado, y quien resumió los promedios del número de Toneladas por producto que se venden diariamente en el mercado en una semana cualquiera, construyó el siguiente gráfico estadístico de estratificación de frecuencias de los productos.
     .row.justify-content-center
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12.mb-4(data-aos="fade-down-left")
         .titulo-sexto.color-acento-botones.mb-0

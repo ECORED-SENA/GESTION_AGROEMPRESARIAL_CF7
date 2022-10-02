@@ -347,7 +347,7 @@ export default {
     },
     {
       referencia:
-        'Las Limas S. A. (21 de Febrero de 2013). Datos Generales de la Empresa “Las Limas S, A.”. Datos Generales de la Empresa “Las Limas S, A.”. Estelí, Nicaragua.',
+        'Las Limas S.A. (21 de Febrero de 2013). Datos Generales de la Empresa “Las Limas S.A.”. Datos Generales de la Empresa “Las Limas S, A.”. Estelí, Nicaragua.',
     },
     {
       referencia:
