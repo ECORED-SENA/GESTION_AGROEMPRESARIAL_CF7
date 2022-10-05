@@ -577,7 +577,7 @@
             <span>Si es mayor a 1 significa que sus activos corrientes cubren sus obligaciones de corto plazo</span>
           p(numero="2" titulo="Razón de endeudamiento") Mide el nivel de endeudamiento que tiene la empresa, es decir la cantidad de recursos de la empresa que ha financiado con recursos monetarios ajenos.
             img.mt-3(src="@/assets/curso/tema4/ecuacion6.svg")
-          p(numero="3" titulo="Nivel de cobertura de intereses") mide en qué porcentaje la empresa genera utilidades operativas superiores para poder pagar los intereses de sus obligaciones
+          p(numero="3" titulo="Nivel de cobertura de intereses") Mide en qué porcentaje la empresa genera utilidades operativas superiores para poder pagar los intereses de sus obligaciones
             img.mt-3(src="@/assets/curso/tema4/ecuacion7.svg")
           p(numero="4" titulo="Nivel de Rentabilidad Neta") Mide la proporción de la utilidad respecto de las ventas netas de la empresa en un periodo
             img.mt-3(src="@/assets/curso/tema4/ecuacion8.svg")        

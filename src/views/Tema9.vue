@@ -90,7 +90,7 @@
             td.bordestabla.text-center La selección del personal adecuado ayuda a la gerencia a realizar el trabajo de manera efectiva.
           tr
             td.bordestabla.text-center 
-              span.text-bold Relaciona a:
+              span.text-bold Relaciona a
             td.bordestabla.text-center El reclutamiento convoca a los trabajadores de la empresa, favoreciendo el ejercicio de promoción y desarrollo 
             td.bordestabla.text-center La decisión de contratación es potestativa del empresario.
 </template>
