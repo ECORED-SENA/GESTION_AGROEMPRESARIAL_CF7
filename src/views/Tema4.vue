@@ -483,7 +483,7 @@
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
         h4.mb-0.ms-0.margentitulo2 Diagrama de Pastel
     p(data-aos="fade-down-right") Es otro esquema de representación gráfica estadística que busca descomponer una variable en sus diferentes categorías, mostrando la cantidad de frecuencia o casos, evidenciando cuánto del total corresponde cada categoría dentro de la variable.
-    p(data-aos="fade-down") #[b Ejemplo]: Para el caso del restaurante se desea saber cómo es el comportamiento o flujo de comensales en el horario de almuerzo, para lo cual el gerente del restaurante recibe de su administrador la siguiente información 
+    p(data-aos="fade-down") #[b Ejemplo]:
     .row.justify-content-between.my-5
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12.mb-4(data-aos="fade-down-left")
         .titulo-sexto.color-acento-botones.mb-0(data-aos="fade-down-left")
